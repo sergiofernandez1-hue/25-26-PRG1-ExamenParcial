@@ -22,7 +22,7 @@ Nota: Responde 5 de las 7 preguntas (elige libremente).
 
 ## Pregunta 1
 
-Archivo: `SimulacionDeHotel.java` (Reto 003)
+Archivo: `SimulacionDeHotel.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/924b80e37c0a5708a04d4286b77fa398b36f25f8/entregas/paguagaJavier/reto-003/SimulacionDeHotel.java) (Reto 003)
 
 ```java
 for(int hora=0;hora<=24;hora++) {
@@ -37,7 +37,7 @@ for(int hora=0;hora<=24;hora++) {
 
 ## Pregunta 2
 
-Archivo: `SimulacionDeHotel.java` (Reto 003)
+Archivo: `SimulacionDeHotel.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/924b80e37c0a5708a04d4286b77fa398b36f25f8/entregas/paguagaJavier/reto-003/SimulacionDeHotel.java) (Reto 003)
 
 ```java
 final String VENTANA_ABIERTA_LUZ_APAGADO = ":[o]:";
@@ -50,7 +50,7 @@ final double PROBABILIDAD_LUZ_Encendido = 0.6;
 
 ## Pregunta 3
 
-Archivo: `SimulacionDeHotelExtendido.java` (Reto 003)
+Archivo: `SimulacionDeHotelExtendido.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/924b80e37c0a5708a04d4286b77fa398b36f25f8/entregas/paguagaJavier/reto-003/SimulacionDeHotelExtendido.java) (Reto 003)
 
 ```java
 int Comsumo = 0;
@@ -64,7 +64,7 @@ Comsumo = Comsumo + (encendida ? 1 : 0);
 
 ## Pregunta 4
 
-Archivo: `SimulacionDeHotelExtendido.java` (Reto 003)
+Archivo: `SimulacionDeHotelExtendido.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/924b80e37c0a5708a04d4286b77fa398b36f25f8/entregas/paguagaJavier/reto-003/SimulacionDeHotelExtendido.java) (Reto 003)
 
 ```java
 boolean yaPasoMantenimiento = false;
@@ -82,7 +82,7 @@ if (enMantenimiento){
 
 ## Pregunta 5
 
-Archivo: `SimulacionDeHotelExtendido.java` (Reto 003)
+Archivo: `SimulacionDeHotelExtendido.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/924b80e37c0a5708a04d4286b77fa398b36f25f8/entregas/paguagaJavier/reto-003/SimulacionDeHotelExtendido.java) (Reto 003)
 
 ```java
 int comsumaSemanal = (D1 + D2 + D3 + D4 + D5 + D6 + D7);
@@ -95,7 +95,7 @@ System.out.println("Media de consumo semanal: " + (comsumaSemanal /7));
 
 ## Pregunta 6
 
-Archivo: `SimulacionDeHotelExtendido.java` (Reto 003)
+Archivo: `SimulacionDeHotelExtendido.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/924b80e37c0a5708a04d4286b77fa398b36f25f8/entregas/paguagaJavier/reto-003/SimulacionDeHotelExtendido.java) (Reto 003)
 
 ```java
 int D1 = 0, D2 = 0, D3 = 0, D4 = 0, D5 = 0, D6 = 0, D7 = 0;
@@ -108,7 +108,7 @@ int Comsumo = 0;
 
 ## Pregunta 7
 
-Archivo: `SimulacionDeHotelExtendido.java` (Reto 003)
+Archivo: `SimulacionDeHotelExtendido.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/924b80e37c0a5708a04d4286b77fa398b36f25f8/entregas/paguagaJavier/reto-003/SimulacionDeHotelExtendido.java) (Reto 003)
 
 ```java
 switch (dia) {
@@ -131,4 +131,3 @@ switch (dia) {
 - Identificación correcta del error: 40%
 - Explicación del porqué es un error: 30%
 - Propuesta de corrección válida: 30%
-

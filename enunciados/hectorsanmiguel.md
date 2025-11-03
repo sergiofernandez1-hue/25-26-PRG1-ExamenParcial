@@ -22,7 +22,7 @@ Nota: Responde 5 de las 8 preguntas (elige libremente).
 
 ## Pregunta 1
 
-Archivo: `DibujadorDeEdificio.java` (Reto 003)
+Archivo: `DibujadorDeEdificio.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/4fb82157b5760bf9f83ccadef799ba24adf4cdc2/entregas/sanmiguelHector/reto-003/DibujadorDeEdificio.java) (Reto 003)
 
 ```java
 final String VENTANA_CERRADA = ":[ ]:";
@@ -36,7 +36,7 @@ final String VENTANA_ABIERTA_LUZ_ENCENDIDA = ":[*]:";
 
 ## Pregunta 2
 
-Archivo: `DibujadorDeEdificio.java` (Reto 003)
+Archivo: `DibujadorDeEdificio.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/4fb82157b5760bf9f83ccadef799ba24adf4cdc2/entregas/sanmiguelHector/reto-003/DibujadorDeEdificio.java) (Reto 003)
 
 ```java
 for (int planta = 1; planta <= NUMERO_DE_PLANTAS; planta++) {
@@ -60,7 +60,7 @@ for (int planta = 1; planta <= NUMERO_DE_PLANTAS; planta++) {
 
 ## Pregunta 3
 
-Archivo: `DibujadorDeEdificio.java` (Reto 003)
+Archivo: `DibujadorDeEdificio.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/4fb82157b5760bf9f83ccadef799ba24adf4cdc2/entregas/sanmiguelHector/reto-003/DibujadorDeEdificio.java) (Reto 003)
 
 ```java
 for (int dia = 1; dia <= 7; dia++) {
@@ -77,7 +77,7 @@ for (int dia = 1; dia <= 7; dia++) {
 
 ## Pregunta 4
 
-Archivo: `DibujadorDeEdificio.java` (Reto 003)
+Archivo: `DibujadorDeEdificio.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/4fb82157b5760bf9f83ccadef799ba24adf4cdc2/entregas/sanmiguelHector/reto-003/DibujadorDeEdificio.java) (Reto 003)
 
 ```java
 final String SEPARADOR = ":[   ]:";
@@ -90,7 +90,7 @@ final String SEPARADOR = ":[   ]:";
 
 ## Pregunta 5
 
-Archivo: `DibujadorDeEdificio.java` (Reto 003)
+Archivo: `DibujadorDeEdificio.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/4fb82157b5760bf9f83ccadef799ba24adf4cdc2/entregas/sanmiguelHector/reto-003/DibujadorDeEdificio.java) (Reto 003)
 
 ```java
 public class DibujadorDeEdificio {
@@ -106,7 +106,7 @@ public class DibujadorDeEdificio {
 
 ## Pregunta 6
 
-Archivo: `DibujadorDeEdificio.java` (Reto 003)
+Archivo: `DibujadorDeEdificio.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/4fb82157b5760bf9f83ccadef799ba24adf4cdc2/entregas/sanmiguelHector/reto-003/DibujadorDeEdificio.java) (Reto 003)
 
 ```java
 final String TECHO_EDIFICIO_ARRIBA = "               __/\\__";
@@ -124,7 +124,7 @@ final String TERCER_SEPARADOR_ENTRE_EDIFICIOS = " ==============================
 
 ## Pregunta 7
 
-Archivo: `DibujadorDeEdificio.java` (Reto 003)
+Archivo: `DibujadorDeEdificio.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/4fb82157b5760bf9f83ccadef799ba24adf4cdc2/entregas/sanmiguelHector/reto-003/DibujadorDeEdificio.java) (Reto 003)
 
 ```java
 final double PERSIANA_ABIERTA = 0.7;
@@ -137,7 +137,7 @@ final double LUZ_ENCENDIDA = 0.6;
 
 ## Pregunta 8
 
-Archivo: `DibujadorDeEdificio.java` (Reto 003)
+Archivo: `DibujadorDeEdificio.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/4fb82157b5760bf9f83ccadef799ba24adf4cdc2/entregas/sanmiguelHector/reto-003/DibujadorDeEdificio.java) (Reto 003)
 
 ```java
 for (int planta = 1; planta <= NUMERO_DE_PLANTAS; planta++) {
@@ -158,4 +158,3 @@ for (int planta = 1; planta <= NUMERO_DE_PLANTAS; planta++) {
 - Identificación correcta del error: 40%
 - Explicación del porqué es un error: 30%
 - Propuesta de corrección válida: 30%
-

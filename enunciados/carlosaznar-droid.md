@@ -22,7 +22,7 @@ Nota: Responde 5 de las 8 preguntas (elige libremente).
 
 ## Pregunta 1
 
-Archivo: `Reto3.java` (Reto 003)
+Archivo: `Reto3.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/3b54c071dd690f3d9fab8141edc9b686d7cd498d/entregas/AznarCarlos/reto-003/Reto3.java) (Reto 003)
 
 ```java
 final String SEPARADOR = "[   ]";
@@ -35,7 +35,7 @@ final String TECHO = "||   |   |###|   |   ||";
 
 ## Pregunta 2
 
-Archivo: `Reto3.java` (Reto 003)
+Archivo: `Reto3.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/3b54c071dd690f3d9fab8141edc9b686d7cd498d/entregas/AznarCarlos/reto-003/Reto3.java) (Reto 003)
 
 ```java
 for (int hora = 0; hora < 24; hora++) {
@@ -52,7 +52,7 @@ for (int hora = 0; hora < 24; hora++) {
 
 ## Pregunta 3
 
-Archivo: `Reto3.java` (Reto 003)
+Archivo: `Reto3.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/3b54c071dd690f3d9fab8141edc9b686d7cd498d/entregas/AznarCarlos/reto-003/Reto3.java) (Reto 003)
 
 ```java
 System.out.print(
@@ -66,7 +66,7 @@ System.out.print(
 
 ## Pregunta 4
 
-Archivo: `Reto3.java` (Reto 003)
+Archivo: `Reto3.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/3b54c071dd690f3d9fab8141edc9b686d7cd498d/entregas/AznarCarlos/reto-003/Reto3.java) (Reto 003)
 
 ```java
 for (int planta = 1; planta <= 7; planta++) {
@@ -86,7 +86,7 @@ for (int planta = 1; planta <= 7; planta++) {
 
 ## Pregunta 5
 
-Archivo: `Reto3.java` (Reto 003)
+Archivo: `Reto3.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/3b54c071dd690f3d9fab8141edc9b686d7cd498d/entregas/AznarCarlos/reto-003/Reto3.java) (Reto 003)
 
 ```java
 public class Reto3{
@@ -100,7 +100,7 @@ public class Reto3{
 
 ## Pregunta 6
 
-Archivo: `Reto3.java` (Reto 003, líneas 28-31)
+Archivo: `Reto3.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/3b54c071dd690f3d9fab8141edc9b686d7cd498d/entregas/AznarCarlos/reto-003/Reto3.java) (Reto 003, líneas 28-31)
 
 ```java
 System.out.print(
@@ -114,7 +114,7 @@ System.out.print(
 
 ## Pregunta 7
 
-Archivo: `Reto3.java` (Reto 003, líneas 18-22)
+Archivo: `Reto3.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/3b54c071dd690f3d9fab8141edc9b686d7cd498d/entregas/AznarCarlos/reto-003/Reto3.java) (Reto 003, líneas 18-22)
 
 ```java
 for (int i = 0; i < 1; i++) {
@@ -129,7 +129,7 @@ for (int i = 0; i < 1; i++) {
 
 ## Pregunta 8
 
-Archivo: `Reto3.java` (Reto 003, líneas 5-7)
+Archivo: `Reto3.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/3b54c071dd690f3d9fab8141edc9b686d7cd498d/entregas/AznarCarlos/reto-003/Reto3.java) (Reto 003, líneas 5-7)
 
 ```java
 final double PERSIANA_ABIERTA = 0.7;
@@ -145,4 +145,3 @@ final double LUZ_ENCENDIDA = 0.6;
 - Identificación correcta del error: 40%
 - Explicación del porqué es un error: 30%
 - Propuesta de corrección válida: 30%
-

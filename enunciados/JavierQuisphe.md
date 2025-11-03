@@ -22,7 +22,7 @@ Nota: Responde 5 de las 9 preguntas (elige libremente).
 
 ## Pregunta 1
 
-Archivo: `EdificioHotel.java` (Reto 003)
+Archivo: `EdificioHotel.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/4f009518d4c48160b18f34b90c073e15ee126fbd/entregas/javierQuisphe/src/EdificioHotel.java) (Reto 003)
 
 ```java
 for (int dia = 1; dia <= TOTAL_DIAS; dia++) {
@@ -39,7 +39,7 @@ for (int dia = 1; dia <= TOTAL_DIAS; dia++) {
 
 ## Pregunta 2
 
-Archivo: `EdificioHotel.java` (Reto 003)
+Archivo: `EdificioHotel.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/4f009518d4c48160b18f34b90c073e15ee126fbd/entregas/javierQuisphe/src/EdificioHotel.java) (Reto 003)
 
 ```java
 System.out.println("Ventana cerrada\tLuz apagada\tLuz encendida");
@@ -52,7 +52,7 @@ System.out.println("[ ]\t[º]\t[*]");
 
 ## Pregunta 3
 
-Archivo: `EdificioHotel.java` (Reto 003)
+Archivo: `EdificioHotel.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/4f009518d4c48160b18f34b90c073e15ee126fbd/entregas/javierQuisphe/src/EdificioHotel.java) (Reto 003)
 
 ```java
 boolean persianaAbierta = random.nextDouble() < PROBABILIDAD_PERSIANA_ABIERTA;
@@ -70,7 +70,7 @@ if (persianaAbierta) {
 
 ## Pregunta 4
 
-Archivo: `EdificioHotel.java` (Reto 003)
+Archivo: `EdificioHotel.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/4f009518d4c48160b18f34b90c073e15ee126fbd/entregas/javierQuisphe/src/EdificioHotel.java) (Reto 003)
 
 ```java
 if (habitacion == HABITACION_ASCENSOR) {
@@ -88,7 +88,7 @@ if (habitacion != HABITACIONES_POR_PLANTA) {
 
 ## Pregunta 5
 
-Archivo: `EdificioHotel.java` (Reto 003)
+Archivo: `EdificioHotel.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/4f009518d4c48160b18f34b90c073e15ee126fbd/entregas/javierQuisphe/src/EdificioHotel.java) (Reto 003)
 
 ```java
 System.out.println(" ==================================");
@@ -102,7 +102,7 @@ System.out.println();
 
 ## Pregunta 6
 
-Archivo: `EdificioHotel.java` (Reto 003)
+Archivo: `EdificioHotel.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/4f009518d4c48160b18f34b90c073e15ee126fbd/entregas/javierQuisphe/src/EdificioHotel.java) (Reto 003)
 
 ```java
 private static final int TOTAL_DIAS = 7;
@@ -120,7 +120,7 @@ private static final double PROBABILIDAD_LUZ_ENCENDIDA = 0.6;
 
 ## Pregunta 7
 
-Archivo: `EdificioHotel.java` (Reto 003)
+Archivo: `EdificioHotel.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/4f009518d4c48160b18f34b90c073e15ee126fbd/entregas/javierQuisphe/src/EdificioHotel.java) (Reto 003)
 
 ```java
 System.out.println("Dia " + dia + " - " + hora + ":00h");
@@ -135,7 +135,7 @@ System.out.println();
 
 ## Pregunta 8
 
-Archivo: `EdificioHotel.java` (Reto 003)
+Archivo: `EdificioHotel.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/4f009518d4c48160b18f34b90c073e15ee126fbd/entregas/javierQuisphe/src/EdificioHotel.java) (Reto 003)
 
 ```java
 if (habitacion == HABITACION_ASCENSOR) {
@@ -149,7 +149,7 @@ if (habitacion == HABITACION_ASCENSOR) {
 
 ## Pregunta 9
 
-Archivo: `EdificioHotel.java` (Reto 003)
+Archivo: `EdificioHotel.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/4f009518d4c48160b18f34b90c073e15ee126fbd/entregas/javierQuisphe/src/EdificioHotel.java) (Reto 003)
 
 ```java
 boolean persianaAbierta = random.nextDouble() < PROBABILIDAD_PERSIANA_ABIERTA;
@@ -176,4 +176,3 @@ if (persianaAbierta) {
 - Identificación correcta del error: 40%
 - Explicación del porqué es un error: 30%
 - Propuesta de corrección válida: 30%
-

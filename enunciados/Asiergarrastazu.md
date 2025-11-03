@@ -22,7 +22,7 @@ Nota: Responde 5 de las 9 preguntas (elige libremente).
 
 ## Pregunta 1
 
-Archivo: `Edificio.java` (Reto 003)
+Archivo: `Edificio.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/4ef44509e8dbfe2d9cf69657c548d5aa338d2707/entregas/asierGarrastazu/reto-003/Edificio.java) (Reto 003)
 
 ```java
 final String VENATANA_ABIERTA_SIN_LUZ = "[º]";
@@ -34,7 +34,7 @@ final String VENATANA_ABIERTA_SIN_LUZ = "[º]";
 
 ## Pregunta 2
 
-Archivo: `Edificio.java` (Reto 003)
+Archivo: `Edificio.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/4ef44509e8dbfe2d9cf69657c548d5aa338d2707/entregas/asierGarrastazu/reto-003/Edificio.java) (Reto 003)
 
 ```java
 for (int hora =0 ; hora <24; hora++){
@@ -48,7 +48,7 @@ for (int hora =0 ; hora <24; hora++){
 
 ## Pregunta 3
 
-Archivo: `Edificio.java` (Reto 003)
+Archivo: `Edificio.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/4ef44509e8dbfe2d9cf69657c548d5aa338d2707/entregas/asierGarrastazu/reto-003/Edificio.java) (Reto 003)
 
 ```java
 for (int planta=1 ; planta <=7; planta++) {
@@ -66,7 +66,7 @@ for (int planta=1 ; planta <=7; planta++) {
 
 ## Pregunta 4
 
-Archivo: `Edificio.java` (Reto 003)
+Archivo: `Edificio.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/4ef44509e8dbfe2d9cf69657c548d5aa338d2707/entregas/asierGarrastazu/reto-003/Edificio.java) (Reto 003)
 
 ```java
 final String BASE = "------------------------------------";
@@ -80,7 +80,7 @@ System.out.println(BASE);
 
 ## Pregunta 5
 
-Archivo: `Edificio.java` (Reto 003)
+Archivo: `Edificio.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/4ef44509e8dbfe2d9cf69657c548d5aa338d2707/entregas/asierGarrastazu/reto-003/Edificio.java) (Reto 003)
 
 ```java
 public class Edificio {
@@ -97,7 +97,7 @@ public class Edificio {
 
 ## Pregunta 6
 
-Archivo: `Edificio.java` (Reto 003, líneas 8-10)
+Archivo: `Edificio.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/4ef44509e8dbfe2d9cf69657c548d5aa338d2707/entregas/asierGarrastazu/reto-003/Edificio.java) (Reto 003, líneas 8-10)
 
 ```java
 final String VENTANA_CERRADA = "[ ]";
@@ -111,7 +111,7 @@ final String VENATANA_ABIERTA_SIN_LUZ = "[º]";
 
 ## Pregunta 7
 
-Archivo: `Edificio.java` (Reto 003, líneas 26-32)
+Archivo: `Edificio.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/4ef44509e8dbfe2d9cf69657c548d5aa338d2707/entregas/asierGarrastazu/reto-003/Edificio.java) (Reto 003, líneas 26-32)
 
 ```java
 for (int planta=1 ; planta <=7; planta++) {
@@ -129,7 +129,7 @@ for (int planta=1 ; planta <=7; planta++) {
 
 ## Pregunta 8
 
-Archivo: `Edificio.java` (Reto 003, línea 31)
+Archivo: `Edificio.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/4ef44509e8dbfe2d9cf69657c548d5aa338d2707/entregas/asierGarrastazu/reto-003/Edificio.java) (Reto 003, línea 31)
 
 ```java
 System.out.println(!abierta ? VENTANA_CERRADA: (encendido ? VENTANA_ABIERTA_CON_LUZ: VENATANA_ABIERTA_SIN_LUZ));
@@ -141,7 +141,7 @@ System.out.println(!abierta ? VENTANA_CERRADA: (encendido ? VENTANA_ABIERTA_CON_
 
 ## Pregunta 9
 
-Archivo: `Edificio.java` (Reto 003, líneas 17-19)
+Archivo: `Edificio.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/4ef44509e8dbfe2d9cf69657c548d5aa338d2707/entregas/asierGarrastazu/reto-003/Edificio.java) (Reto 003, líneas 17-19)
 
 ```java
 boolean abierta;
@@ -158,4 +158,3 @@ for (int dia =1 ; dia <=30; dia++) {
 - Identificación correcta del error: 40%
 - Explicación del porqué es un error: 30%
 - Propuesta de corrección válida: 30%
-

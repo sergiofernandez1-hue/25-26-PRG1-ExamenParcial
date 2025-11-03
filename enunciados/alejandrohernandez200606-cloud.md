@@ -22,7 +22,7 @@ Nota: Responde 5 de las 8 preguntas (elige libremente).
 
 ## Pregunta 1
 
-Archivo: `edificio.java` (Reto 003)
+Archivo: `edificio.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/2af2b00b22b696ff40b21e2c9b472fc292598437/entregas/hernandezAlejandro/reto-003/edificio.java) (Reto 003)
 
 ```java
 public class edificio {
@@ -36,7 +36,7 @@ public class edificio {
 
 ## Pregunta 2
 
-Archivo: `edificio.java` (Reto 003)
+Archivo: `edificio.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/2af2b00b22b696ff40b21e2c9b472fc292598437/entregas/hernandezAlejandro/reto-003/edificio.java) (Reto 003)
 
 ```java
 String[][] edificio = new String[8][6];
@@ -54,7 +54,7 @@ for (int p = 1; p <= 7; p++) {
 
 ## Pregunta 3
 
-Archivo: `edificio.java` (Reto 003)
+Archivo: `edificio.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/2af2b00b22b696ff40b21e2c9b472fc292598437/entregas/hernandezAlejandro/reto-003/edificio.java) (Reto 003)
 
 ```java
 boolean persianaAbierta = Math.random() < 0.7;
@@ -70,7 +70,7 @@ else edificio[p][h] = luzEncendida ? "[º]" : "[*]";
 
 ## Pregunta 4
 
-Archivo: `Reto002.java` (Reto 002)
+Archivo: `Reto002.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/cb6ea30d491d1c9eaf6a2e35d593244ede140537/entregas/HernandezAlejandro/Reto002.java) (Reto 002)
 
 ```java
 if (energiaVampiro <= 0) {
@@ -90,7 +90,7 @@ if (energiaHeroe <= 0) {
 
 ## Pregunta 5
 
-Archivo: `edificio.java` (Reto 003)
+Archivo: `edificio.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/2af2b00b22b696ff40b21e2c9b472fc292598437/entregas/hernandezAlejandro/reto-003/edificio.java) (Reto 003)
 
 ```java
 for (int dia = 1; dia <= DIAS_SEMANA; dia++) {
@@ -107,7 +107,7 @@ for (int dia = 1; dia <= DIAS_SEMANA; dia++) {
 
 ## Pregunta 6
 
-Archivo: `edificio.java` (Reto 003, líneas 5-8)
+Archivo: `edificio.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/2af2b00b22b696ff40b21e2c9b472fc292598437/entregas/hernandezAlejandro/reto-003/edificio.java) (Reto 003, líneas 5-8)
 
 ```java
 final int PLANTAS = 8;
@@ -122,7 +122,7 @@ final int DIAS_SEMANA = 7;
 
 ## Pregunta 7
 
-Archivo: `edificio.java` (Reto 003, líneas 15-17)
+Archivo: `edificio.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/2af2b00b22b696ff40b21e2c9b472fc292598437/entregas/hernandezAlejandro/reto-003/edificio.java) (Reto 003, líneas 15-17)
 
 ```java
 Integer rayoColumna = null;
@@ -135,7 +135,7 @@ Integer plantaMantenimiento = null;
 
 ## Pregunta 8
 
-Archivo: `edificio.java` (Reto 003, línea 82)
+Archivo: `edificio.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/2af2b00b22b696ff40b21e2c9b472fc292598437/entregas/hernandezAlejandro/reto-003/edificio.java) (Reto 003, línea 82)
 
 ```java
 if (rayoColumna != null && hora == 1)
@@ -150,4 +150,3 @@ if (rayoColumna != null && hora == 1)
 - Identificación correcta del error: 40%
 - Explicación del porqué es un error: 30%
 - Propuesta de corrección válida: 30%
-

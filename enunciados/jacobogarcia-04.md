@@ -22,7 +22,7 @@ Nota: Responde 5 de las 10 preguntas (elige libremente).
 
 ## Pregunta 1
 
-Archivo: `Edificio.java` (Reto 003)
+Archivo: `Edificio.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/433ad84a2ebe11953d60c14209466d53e95cad22/entregas/garciaJacobo/reto-003/Edificio.java) (Reto 003)
 
 ```java
 for (int horas = 0; horas <= 24; horas++) {
@@ -37,7 +37,7 @@ for (int horas = 0; horas <= 24; horas++) {
 
 ## Pregunta 2
 
-Archivo: `Edificio.java` (Reto 003)
+Archivo: `Edificio.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/433ad84a2ebe11953d60c14209466d53e95cad22/entregas/garciaJacobo/reto-003/Edificio.java) (Reto 003)
 
 ```java
 final String VENTANA_CERRADA = ":[ ]:";
@@ -51,7 +51,7 @@ final String VENTANA_LUZ_ENCENDIDA = ":[*]:";
 
 ## Pregunta 3
 
-Archivo: `Edificio.java` (Reto 003)
+Archivo: `Edificio.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/433ad84a2ebe11953d60c14209466d53e95cad22/entregas/garciaJacobo/reto-003/Edificio.java) (Reto 003)
 
 ```java
 System.out.print(
@@ -65,7 +65,7 @@ System.out.print(
 
 ## Pregunta 4
 
-Archivo: `Edificio.java` (Reto 003)
+Archivo: `Edificio.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/433ad84a2ebe11953d60c14209466d53e95cad22/entregas/garciaJacobo/reto-003/Edificio.java) (Reto 003)
 
 ```java
 if (columna == 3) {
@@ -81,7 +81,7 @@ System.out.print("- P" + (PLANTA_MAXIMA + 1 - planta));
 
 ## Pregunta 5
 
-Archivo: `Edificio.java` (Reto 003)
+Archivo: `Edificio.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/433ad84a2ebe11953d60c14209466d53e95cad22/entregas/garciaJacobo/reto-003/Edificio.java) (Reto 003)
 
 ```java
 final String PARTE_DEABJO_DEL_TECHO = "  |    |    |  |####|  |    |    |  ";
@@ -96,7 +96,7 @@ final String BORDE_INFERIOR_3 = " ==================================";
 
 ## Pregunta 6
 
-Archivo: `Reto_002.java` (Reto 002, líneas 4-10)
+Archivo: `Reto_002.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/a1c94dab161fa01f72791a65f607892972ee970a/entregas/garciaalonsojacobo/reto-002/Reto_002.java) (Reto 002, líneas 4-10)
 
 ```java
 int VIDA_GUERRERO = 20;
@@ -114,7 +114,7 @@ final double PORCENTAJE_EXITO_VAMPRIO = 0.5;
 
 ## Pregunta 7
 
-Archivo: `ClasificacionConductor.java` (Ejercicios, líneas 19-25)
+Archivo: `ClasificacionConductor.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/89993df84aeb49e8207a3ececf2495a405b1d0b2/entregas/garciaalonsojacobo/ejercicios/ClasificacionConductor.java) (Ejercicios, líneas 19-25)
 
 ```java
 if (edadDelusuario < MENOR_EDAD) {
@@ -133,7 +133,7 @@ if (edadDelusuario >= MENOR_EDAD) {
 
 ## Pregunta 8
 
-Archivo: `ClasificacionEdad.java` (Ejercicios, línea 7)
+Archivo: `ClasificacionEdad.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/89993df84aeb49e8207a3ececf2495a405b1d0b2/entregas/garciaalonsojacobo/ejercicios/ClasificacionEdad.java) (Ejercicios, línea 7)
 
 ```java
 final int PRIERA_INFANCIA = 5;
@@ -145,7 +145,7 @@ final int PRIERA_INFANCIA = 5;
 
 ## Pregunta 9
 
-Archivo: `AdivinadorNumeros.java` (Ejercicios, línea 8)
+Archivo: `AdivinadorNumeros.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/89993df84aeb49e8207a3ececf2495a405b1d0b2/entregas/garciaalonsojacobo/ejercicios/AdivinadorNumeros.java) (Ejercicios, línea 8)
 
 ```java
 final int NUMERO_MAXIMO = 100;
@@ -160,7 +160,7 @@ int numeroPensado = (int) (Math.random() * NUMERO_MAXIMO) + 1;
 
 ## Pregunta 10
 
-Archivo: `CambioDeDinero.java` (Reto 001, fragmento)
+Archivo: `CambioDeDinero.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/beaba11f535242049bae0eba9f6e0f7348a868bf/entregas/GarciaAlonsoJacobo/reto-001/CambioDeDinero.java) (Reto 001, fragmento)
 
 ```java
 int cambio = montoEntregado - montoApagar;
@@ -191,4 +191,3 @@ c) ¿Cómo nombrarías mejor la variable que representa lo que queda por devolve
 - Identificación correcta del error: 40%
 - Explicación del porqué es un error: 30%
 - Propuesta de corrección válida: 30%
-

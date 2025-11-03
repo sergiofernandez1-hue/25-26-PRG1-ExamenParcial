@@ -22,7 +22,7 @@ Nota: Responde 5 de las 9 preguntas (elige libremente).
 
 ## Pregunta 1
 
-Archivo: `edificio.java` (Reto 003)
+Archivo: `edificio.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/fc37f36790acb17b30da59944d74627149443ed5/entregas/raposoEdgar/edificio.java) (Reto 003)
 
 ```java
 class edificio {
@@ -38,7 +38,7 @@ class edificio {
 
 ## Pregunta 2
 
-Archivo: `edificio.java` (Reto 003)
+Archivo: `edificio.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/fc37f36790acb17b30da59944d74627149443ed5/entregas/raposoEdgar/edificio.java) (Reto 003)
 
 ```java
 while (dia <= DIAS) {
@@ -58,7 +58,7 @@ while (dia <= DIAS) {
 
 ## Pregunta 3
 
-Archivo: `edificio.java` (Reto 003)
+Archivo: `edificio.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/fc37f36790acb17b30da59944d74627149443ed5/entregas/raposoEdgar/edificio.java) (Reto 003)
 
 ```java
 if (hayRayo && c == columnaRayo) {
@@ -81,7 +81,7 @@ if (hayRayo && c == columnaRayo) {
 
 ## Pregunta 4
 
-Archivo: `edificio.java` (Reto 003)
+Archivo: `edificio.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/fc37f36790acb17b30da59944d74627149443ed5/entregas/raposoEdgar/edificio.java) (Reto 003)
 
 ```java
 System.out.println("Dia " + dia + " - " + hora + ":00  Consumo hora: " + consumoDia);
@@ -93,7 +93,7 @@ System.out.println("Dia " + dia + " - " + hora + ":00  Consumo hora: " + consumo
 
 ## Pregunta 5
 
-Archivo: `edificio.java` (Reto 003)
+Archivo: `edificio.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/fc37f36790acb17b30da59944d74627149443ed5/entregas/raposoEdgar/edificio.java) (Reto 003)
 
 ```java
 System.out.println("Media semanal: " + (consumoTotalSemana / 7));
@@ -105,7 +105,7 @@ System.out.println("Media semanal: " + (consumoTotalSemana / 7));
 
 ## Pregunta 6
 
-Archivo: `Edificio.java` (Reto 003, líneas 5-6)
+Archivo: `Edificio.java` — [PRs del alumno](https://github.com/mmasias/25-26-PRG1/pulls?q=is%3Apr+author%3Aedgarraposo-glitch+is%3Aall) (Reto 003, líneas 5-6)
 
 ```java
 int PERSIANA_ABIERTA = 0.7;
@@ -118,7 +118,7 @@ int LUZ_ENCENDIDA = 0.6;
 
 ## Pregunta 7
 
-Archivo: `Edificio.java` (Reto 003, línea 17)
+Archivo: `Edificio.java` — [PRs del alumno](https://github.com/mmasias/25-26-PRG1/pulls?q=is%3Apr+author%3Aedgarraposo-glitch+is%3Aall) (Reto 003, línea 17)
 
 ```java
 for (int planta = 1; planta <= 6; planta++) {
@@ -130,7 +130,7 @@ for (int planta = 1; planta <= 6; planta++) {
 
 ## Pregunta 8
 
-Archivo: `Edificio.java` (Reto 003, línea 21)
+Archivo: `Edificio.java` — [PRs del alumno](https://github.com/mmasias/25-26-PRG1/pulls?q=is%3Apr+author%3Aedgarraposo-glitch+is%3Aall) (Reto 003, línea 21)
 
 ```java
 System.out.println(!abierta ? VENTANA_CERRADA : encendida ? VENTANA_ABIERTA_CON_LUZ : VENTANA_ABIERTA_SIN_LUZ);
@@ -142,7 +142,7 @@ System.out.println(!abierta ? VENTANA_CERRADA : encendida ? VENTANA_ABIERTA_CON_
 
 ## Pregunta 9
 
-Archivo: `Edificio.java` (Reto 003, línea 2)
+Archivo: `Edificio.java` — [PRs del alumno](https://github.com/mmasias/25-26-PRG1/pulls?q=is%3Apr+author%3Aedgarraposo-glitch+is%3Aall) (Reto 003, línea 2)
 
 ```java
 class Edificio {
@@ -157,4 +157,3 @@ class Edificio {
 - Identificación correcta del error: 40%
 - Explicación del porqué es un error: 30%
 - Propuesta de corrección válida: 30%
-

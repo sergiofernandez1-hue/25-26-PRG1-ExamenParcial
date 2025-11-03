@@ -22,7 +22,7 @@ Nota: Responde 5 de las 10 preguntas (elige libremente).
 
 ## Pregunta 1
 
-Archivo: `Building.java` (Reto 003)
+Archivo: `Building.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/7c4da57b9ac62e54aed91fe9ff1fdbd0a2c6e82d/entregas/bayonMateo/Building.java) (Reto 003)
 
 ```java
 for (int day = 0; day <= 6; day = day + 1) {
@@ -38,7 +38,7 @@ for (int day = 0; day <= 6; day = day + 1) {
 
 ## Pregunta 2
 
-Archivo: `Building.java` (Reto 003)
+Archivo: `Building.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/7c4da57b9ac62e54aed91fe9ff1fdbd0a2c6e82d/entregas/bayonMateo/Building.java) (Reto 003)
 
 ```java
 for (int height = 0; height <= 6; height = height + 1) {
@@ -59,7 +59,7 @@ for (int height = 0; height <= 6; height = height + 1) {
 
 ## Pregunta 3
 
-Archivo: `Building.java` (Reto 003)
+Archivo: `Building.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/7c4da57b9ac62e54aed91fe9ff1fdbd0a2c6e82d/entregas/bayonMateo/Building.java) (Reto 003)
 
 ```java
 if (chanceClosed < 0.70) {
@@ -79,7 +79,7 @@ if (chanceClosed < 0.70) {
 
 ## Pregunta 4
 
-Archivo: `Building.java` (Reto 003)
+Archivo: `Building.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/7c4da57b9ac62e54aed91fe9ff1fdbd0a2c6e82d/entregas/bayonMateo/Building.java) (Reto 003)
 
 ```java
 System.out.println(BASE_BUILDING1);
@@ -94,7 +94,7 @@ System.err.println("Day " + day + " " + hour + ":00 h");
 
 ## Pregunta 5
 
-Archivo: `Building.java` (Reto 003)
+Archivo: `Building.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/7c4da57b9ac62e54aed91fe9ff1fdbd0a2c6e82d/entregas/bayonMateo/Building.java) (Reto 003)
 
 ```java
 final String separator = " _ __ ";
@@ -107,7 +107,7 @@ final String separator = " _ __ ";
 
 ## Pregunta 6
 
-Archivo: `changeCalculator.java` (Reto 001)
+Archivo: `changeCalculator.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/256bd224386dfdcf63c87c9f57affdb807614668/entregas/bay%C3%B3nMateo/changeCalculator.java) (Reto 001)
 
 ```java
 public class changeCalculator {
@@ -120,7 +120,7 @@ public class changeCalculator {
 
 ## Pregunta 7
 
-Archivo: `WarriorVersusVampire.java` (Reto 002, líneas 17-24)
+Archivo: `WarriorVersusVampire.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/e44a22eab4ad72e5aaf8a13834da2d5fdde8c290/entregas/bay%C3%B3nMateo/WarriorVersusVampire.java) (Reto 002, líneas 17-24)
 
 ```java
 System.out.println("[Narrator] You walk into a dark forest...");
@@ -140,7 +140,7 @@ String enter4 = scanner.nextLine();
 
 ## Pregunta 8
 
-Archivo: `Building.java` (Reto 003, líneas 6-13)
+Archivo: `Building.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/7c4da57b9ac62e54aed91fe9ff1fdbd0a2c6e82d/entregas/bayonMateo/Building.java) (Reto 003, líneas 6-13)
 
 ```java
 final String ROOF_BUILDING1 = "               __/\\__              ";
@@ -160,7 +160,7 @@ final String separator = " _ __ ";
 
 ## Pregunta 9
 
-Archivo: `Building.java` (Reto 003, línea 71)
+Archivo: `Building.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/7c4da57b9ac62e54aed91fe9ff1fdbd0a2c6e82d/entregas/bayonMateo/Building.java) (Reto 003, línea 71)
 
 ```java
 System.out.println(BASE_BUILDING3);
@@ -175,7 +175,7 @@ System.err.println("Day " + day + " " + hour + ":00 h");
 
 ## Pregunta 10
 
-Archivo: `changeCalculator.java` (Reto 001, fragmento)
+Archivo: `changeCalculator.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/256bd224386dfdcf63c87c9f57affdb807614668/entregas/bay%C3%B3nMateo/changeCalculator.java) (Reto 001, fragmento)
 
 ```java
 int twoHundredBills = change > 200 ? change / 200 : 0;
@@ -203,4 +203,3 @@ c) Muestra cómo quedaría una iteración mejorada
 - Identificación correcta del error: 40%
 - Explicación del porqué es un error: 30%
 - Propuesta de corrección válida: 30%
-

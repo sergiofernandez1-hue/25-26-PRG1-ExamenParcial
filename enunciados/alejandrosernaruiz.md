@@ -22,7 +22,7 @@ Nota: Responde 5 de las 8 preguntas (elige libremente).
 
 ## Pregunta 1
 
-Archivo: `reto002.java` (Reto 002)
+Archivo: `reto002.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/6230b7b966f32b52a8202521079a8787abe93d0a/evaluaciones/reto002.java) (Reto 002)
 
 ```java
 if(aciertaGuerrero){
@@ -40,7 +40,7 @@ if(aciertaGuerrero){
 
 ## Pregunta 2
 
-Archivo: `reto002.java` (Reto 002)
+Archivo: `reto002.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/6230b7b966f32b52a8202521079a8787abe93d0a/evaluaciones/reto002.java) (Reto 002)
 
 ```java
 int ronda=1;
@@ -57,7 +57,7 @@ while(hpGuerrero>0&&hpVampiro>0){
 
 ## Pregunta 3
 
-Archivo: `reto003.java` (Reto 003)
+Archivo: `reto003.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/6230b7b966f32b52a8202521079a8787abe93d0a/evaluaciones/reto003.java) (Reto 003)
 
 ```java
 for (int piso = PISOS - 1; piso >= 1; piso--) {
@@ -71,7 +71,7 @@ for (int piso = PISOS - 1; piso >= 1; piso--) {
 
 ## Pregunta 4
 
-Archivo: `reto001.java` (Reto 001)
+Archivo: `reto001.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/6230b7b966f32b52a8202521079a8787abe93d0a/evaluaciones/retos/reto001.java) (Reto 001)
 
 ```java
 Scanner scanner = new Scanner(System.in);
@@ -86,7 +86,7 @@ int dineroEntregado = scanner2.nextInt();
 
 ## Pregunta 5
 
-Archivo: `reto001.java` (Reto 001)
+Archivo: `reto001.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/6230b7b966f32b52a8202521079a8787abe93d0a/evaluaciones/retos/reto001.java) (Reto 001)
 
 ```java
 int[] billetes={100,50,20,10,5,2,2};
@@ -100,7 +100,7 @@ String[] nombres={"billete(s) de 100", "billete(s) de 50", "billete(s) de 20",
 
 ## Pregunta 6
 
-Archivo: `reto002.java` (Reto 002, líneas 5-7)
+Archivo: `reto002.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/6230b7b966f32b52a8202521079a8787abe93d0a/evaluaciones/reto002.java) (Reto 002, líneas 5-7)
 
 ```java
 int hpGuerrero = 20;
@@ -114,7 +114,7 @@ int hpVampiro = 10;
 
 ## Pregunta 7
 
-Archivo: `reto002.java` (Reto 002, líneas 23-24)
+Archivo: `reto002.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/6230b7b966f32b52a8202521079a8787abe93d0a/evaluaciones/reto002.java) (Reto 002, líneas 23-24)
 
 ```java
 else{
@@ -127,7 +127,7 @@ else{
 
 ## Pregunta 8
 
-Archivo: `reto003.java` (Reto 003, líneas 3-6)
+Archivo: `reto003.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/6230b7b966f32b52a8202521079a8787abe93d0a/evaluaciones/reto003.java) (Reto 003, líneas 3-6)
 
 ```java
 public class reto003{
@@ -144,4 +144,3 @@ static final int PISOS = 8;
 - Identificación correcta del error: 40%
 - Explicación del porqué es un error: 30%
 - Propuesta de corrección válida: 30%
-

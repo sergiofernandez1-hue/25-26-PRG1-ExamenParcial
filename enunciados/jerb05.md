@@ -22,7 +22,7 @@ Nota: Responde 5 de las 8 preguntas (elige libremente).
 
 ## Pregunta 1
 
-Archivo: `Batalla.java` (Reto 002)
+Archivo: `Batalla.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/5d5f3f4e400252d3f4a5c90df45f1dff23d18240/entregas/riveraJorge/reto-002/Batalla.java) (Reto 002)
 
 ```java
 } while (!algunMuerto);{
@@ -37,7 +37,7 @@ Archivo: `Batalla.java` (Reto 002)
 
 ## Pregunta 2
 
-Archivo: `Batalla2.java` (Reto 002)
+Archivo: `Batalla2.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/5d5f3f4e400252d3f4a5c90df45f1dff23d18240/entregas/riveraJorge/reto-002/Batalla2.java) (Reto 002)
 
 ```java
 else if (armaSeleccionada == 3) {
@@ -56,7 +56,7 @@ else if (armaSeleccionada == 3) {
 
 ## Pregunta 3
 
-Archivo: `CalculadoraDePrecioFinal.java` (Reto 001)
+Archivo: `CalculadoraDePrecioFinal.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/5d5f3f4e400252d3f4a5c90df45f1dff23d18240/entregas/riveraJorge/src/CalculadoraDePrecioFinal.java) (Reto 001)
 
 ```java
 double descuento;
@@ -74,7 +74,7 @@ System.out.println ("IVA: " + 100 * (1-IVA) + "%");
 
 ## Pregunta 4
 
-Archivo: `CalculadoraDeCambio.java` (Reto 001)
+Archivo: `CalculadoraDeCambio.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/5d5f3f4e400252d3f4a5c90df45f1dff23d18240/entregas/riveraJorge/src/CalculadoraDeCambio.java) (Reto 001)
 
 ```java
 int cambio = cantidadPagada - cantidadDebida;
@@ -91,7 +91,7 @@ cambio = cambio % 1;
 
 ## Pregunta 5
 
-Archivo: `Edificio.java` (Reto 003)
+Archivo: `Edificio.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/5d5f3f4e400252d3f4a5c90df45f1dff23d18240/entregas/riveraJorge/reto-003/Edificio.java) (Reto 003)
 
 ```java
 System.out.println("Dia " + dia + " - " + hora + ":00  Consumo hora: " + consumoDia);
@@ -104,7 +104,7 @@ System.out.println("Media semanal: " + (consumoTotalSemana / 7));
 
 ## Pregunta 6
 
-Archivo: `Edificio.java` (Reto 003)
+Archivo: `Edificio.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/5d5f3f4e400252d3f4a5c90df45f1dff23d18240/entregas/riveraJorge/reto-003/Edificio.java) (Reto 003)
 
 ```java
 class Edificio {
@@ -123,7 +123,7 @@ class Edificio {
 
 ## Pregunta 7
 
-Archivo: `Edificio.java` (Reto 003)
+Archivo: `Edificio.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/5d5f3f4e400252d3f4a5c90df45f1dff23d18240/entregas/riveraJorge/reto-003/Edificio.java) (Reto 003)
 
 ```java
 boolean abierta = Math.random() < PERSIANA_ABIERTA;
@@ -147,7 +147,7 @@ boolean abierta = Math.random() < PERSIANA_ABIERTA;
 
 ## Pregunta 8
 
-Archivo: `Batalla.java` (Reto 002)
+Archivo: `Batalla.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/5d5f3f4e400252d3f4a5c90df45f1dff23d18240/entregas/riveraJorge/reto-002/Batalla.java) (Reto 002)
 
 ```java
 do {
@@ -166,4 +166,3 @@ do {
 - Identificación correcta del error: 40%
 - Explicación del porqué es un error: 30%
 - Propuesta de corrección válida: 30%
-

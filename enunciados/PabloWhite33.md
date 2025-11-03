@@ -22,7 +22,7 @@ Nota: Responde 5 de las 9 preguntas (elige libremente).
 
 ## Pregunta 1
 
-Archivo: `batalla.java` (Reto 002)
+Archivo: `batalla.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/3db4dfa0f2b4d0ba85a5119ccbd56f410ca73706/entregas/pablo.white/batalla.java) (Reto 002)
 
 ```java
 class batalla {
@@ -38,7 +38,7 @@ class batalla {
 
 ## Pregunta 2
 
-Archivo: `batalla.java` (Reto 002)
+Archivo: `batalla.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/3db4dfa0f2b4d0ba85a5119ccbd56f410ca73706/entregas/pablo.white/batalla.java) (Reto 002)
 
 ```java
 System.out.print("¿Que arma quieres usar? (ESPADA = 7, ESCOPETA = 15, PISTOLA = 30): ");
@@ -58,7 +58,7 @@ if (Math.random() < PORCENTAJE_EXITO_ESPADA) {
 
 ## Pregunta 3
 
-Archivo: `batalla.java` (Reto 002)
+Archivo: `batalla.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/3db4dfa0f2b4d0ba85a5119ccbd56f410ca73706/entregas/pablo.white/batalla.java) (Reto 002)
 
 ```java
 final int MORDIDA_VAMPIRO = 5;
@@ -80,7 +80,7 @@ if (Math.random() < PORCENTAJE_EXITO_MORDIDA) {
 
 ## Pregunta 4
 
-Archivo: `batalla.java` (Reto 002)
+Archivo: `batalla.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/3db4dfa0f2b4d0ba85a5119ccbd56f410ca73706/entregas/pablo.white/batalla.java) (Reto 002)
 
 ```java
 System.out.println("Vida Guerrero [" + vidaGuerrero + "] / Vida Vampiro [" + vidaVampiro + "]");
@@ -94,7 +94,7 @@ System.out.println("Ganó el" + elGanador);
 
 ## Pregunta 5
 
-Archivo: `Calculadora de precio.java` (Reto 001)
+Archivo: `Calculadora de precio.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/3db4dfa0f2b4d0ba85a5119ccbd56f410ca73706/entregas/pablo.white/Calculadora%20de%20precio.java) (Reto 001)
 
 ```java
 // (archivo con espacios en nombre y clases relacionadas)
@@ -106,7 +106,7 @@ Archivo: `Calculadora de precio.java` (Reto 001)
 
 ## Pregunta 6
 
-Archivo: `Conversor de segundos.java` (Reto 001)
+Archivo: `Conversor de segundos.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/3db4dfa0f2b4d0ba85a5119ccbd56f410ca73706/entregas/pablo.white/Conversor%20de%20segundos.java) (Reto 001)
 
 ```java
 Scanner scanner = new Scanner(System.in);
@@ -120,7 +120,7 @@ int segundosTotales = scanner.nextInt();
 
 ## Pregunta 7
 
-Archivo: `Conversor de segundos.java` (Reto 001)
+Archivo: `Conversor de segundos.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/3db4dfa0f2b4d0ba85a5119ccbd56f410ca73706/entregas/pablo.white/Conversor%20de%20segundos.java) (Reto 001)
 
 ```java
 System.out.println(segundosTotales + "segundos son:");
@@ -136,7 +136,7 @@ System.out.println(segundos + "segundos");
 
 ## Pregunta 8
 
-Archivo: `batalla.java` (Reto 002)
+Archivo: `batalla.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/3db4dfa0f2b4d0ba85a5119ccbd56f410ca73706/entregas/pablo.white/batalla.java) (Reto 002)
 
 ```java
 System.out.print("¿Que arma quieres usar? (ESPADA = 7, ESCOPETA = 15, PISTOLA = 30): ");
@@ -162,7 +162,7 @@ if (Math.random() < PORCENTAJE_EXITO_ESPADA) {
 
 ## Pregunta 9
 
-Archivo: `batalla.java` (Reto 002)
+Archivo: `batalla.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/3db4dfa0f2b4d0ba85a5119ccbd56f410ca73706/entregas/pablo.white/batalla.java) (Reto 002)
 
 ```java
 if (Math.random() < PORCENTAJE_EXITO_MORDIDA) {
@@ -188,4 +188,3 @@ if (Math.random() < PORCENTAJE_EXITO_MORDIDA) {
 - Identificación correcta del error: 40%
 - Explicación del porqué es un error: 30%
 - Propuesta de corrección válida: 30%
-

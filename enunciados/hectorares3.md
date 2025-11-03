@@ -22,7 +22,7 @@ Nota: Responde 5 de las 8 preguntas (elige libremente).
 
 ## Pregunta 1
 
-Archivo: `Hotel.java` (Reto 003)
+Archivo: `Hotel.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/54b37c9b9f12ac5776649e3dd1cd8aa14198a8de/entregas/aresHector/Hotel.java) (Reto 003)
 
 ```java
 class SimulacionHotel {
@@ -36,7 +36,7 @@ class SimulacionHotel {
 
 ## Pregunta 2
 
-Archivo: `Hotel.java` (Reto 003)
+Archivo: `Hotel.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/54b37c9b9f12ac5776649e3dd1cd8aa14198a8de/entregas/aresHector/Hotel.java) (Reto 003)
 
 ```java
 if (!hayRayo && random.nextDouble() < PROB_RAYO) {
@@ -51,7 +51,7 @@ if (!hayRayo && random.nextDouble() < PROB_RAYO) {
 
 ## Pregunta 3
 
-Archivo: `Hotel.java` (Reto 003)
+Archivo: `Hotel.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/54b37c9b9f12ac5776649e3dd1cd8aa14198a8de/entregas/aresHector/Hotel.java) (Reto 003)
 
 ```java
 boolean persianaAbierta = random.nextDouble() < PROB_PERSIANA;
@@ -71,7 +71,7 @@ if (persianaAbierta && luzEncendida) {
 
 ## Pregunta 4
 
-Archivo: `Hotel.java` (Reto 003)
+Archivo: `Hotel.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/54b37c9b9f12ac5776649e3dd1cd8aa14198a8de/entregas/aresHector/Hotel.java) (Reto 003)
 
 ```java
 if (SIMBOLO_PERSIANA_LUZ.equals(celda)) {
@@ -86,7 +86,7 @@ System.out.print(celda + ":");
 
 ## Pregunta 5
 
-Archivo: `Hotel.java` (Reto 003)
+Archivo: `Hotel.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/54b37c9b9f12ac5776649e3dd1cd8aa14198a8de/entregas/aresHector/Hotel.java) (Reto 003)
 
 ```java
 double mediaSemanal = consumoTotalSemana / (double) DIAS;
@@ -99,7 +99,7 @@ System.out.printf("Media semanal: %.2f%n", mediaSemanal);
 
 ## Pregunta 6
 
-Archivo: `Hotel.java` (Reto 003)
+Archivo: `Hotel.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/54b37c9b9f12ac5776649e3dd1cd8aa14198a8de/entregas/aresHector/Hotel.java) (Reto 003)
 
 ```java
 class SimulacionHotel {
@@ -114,7 +114,7 @@ class SimulacionHotel {
 
 ## Pregunta 7
 
-Archivo: `Hotel.java` (Reto 003)
+Archivo: `Hotel.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/54b37c9b9f12ac5776649e3dd1cd8aa14198a8de/entregas/aresHector/Hotel.java) (Reto 003)
 
 ```java
 if (hayRayo && columna == columnaRayo) {
@@ -140,7 +140,7 @@ if (hayRayo && columna == columnaRayo) {
 
 ## Pregunta 8
 
-Archivo: `Hotel.java` (Reto 003)
+Archivo: `Hotel.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/54b37c9b9f12ac5776649e3dd1cd8aa14198a8de/entregas/aresHector/Hotel.java) (Reto 003)
 
 ```java
 if (hayRayo)
@@ -158,4 +158,3 @@ if (hayMantenimiento && hora == horaMantenimiento)
 - Identificación correcta del error: 40%
 - Explicación del porqué es un error: 30%
 - Propuesta de corrección válida: 30%
-

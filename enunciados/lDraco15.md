@@ -22,7 +22,7 @@ Nota: Responde 5 de las 10 preguntas (elige libremente).
 
 ## Pregunta 1
 
-Archivo: `RetoEdificio.java` (Reto 003)
+Archivo: `RetoEdificio.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/b0a9f229997b9d22b212e4f4df9767f93d4d9a0f/entregas/villedaAbner/src/RetoEdificio.java) (Reto 003)
 
 ```java
 for (int hora = 0; hora <= 24; hora++) {
@@ -36,7 +36,7 @@ for (int hora = 0; hora <= 24; hora++) {
 
 ## Pregunta 2
 
-Archivo: `RetoEdificio.java` (Reto 003)
+Archivo: `RetoEdificio.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/b0a9f229997b9d22b212e4f4df9767f93d4d9a0f/entregas/villedaAbner/src/RetoEdificio.java) (Reto 003)
 
 ```java
 final int PLANTAS = 8;
@@ -53,7 +53,7 @@ for (int columna = 1; columna <= 8; columna++) {
 
 ## Pregunta 3
 
-Archivo: `RetoEdificio.java` (Reto 003)
+Archivo: `RetoEdificio.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/b0a9f229997b9d22b212e4f4df9767f93d4d9a0f/entregas/villedaAbner/src/RetoEdificio.java) (Reto 003)
 
 ```java
 if (!abierta) {
@@ -71,7 +71,7 @@ if (!abierta) {
 
 ## Pregunta 4
 
-Archivo: `RetoEdificio.java` (Reto 003)
+Archivo: `RetoEdificio.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/b0a9f229997b9d22b212e4f4df9767f93d4d9a0f/entregas/villedaAbner/src/RetoEdificio.java) (Reto 003)
 
 ```java
 final String VENTANA = ":[]:";
@@ -86,7 +86,7 @@ final String LUZ_ENCENDIDA = ":[*]:";
 
 ## Pregunta 5
 
-Archivo: `RetoEdificio.java` (Reto 003)
+Archivo: `RetoEdificio.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/b0a9f229997b9d22b212e4f4df9767f93d4d9a0f/entregas/villedaAbner/src/RetoEdificio.java) (Reto 003)
 
 ```java
 System.out.println(BASE);
@@ -99,7 +99,7 @@ System.out.println(CALLE);
 
 ## Pregunta 6
 
-Archivo: `Conversor.java` (Reto 001)
+Archivo: `Conversor.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/c4c754632c7dc5420e7bb9f2e363d57ad3a780a5/entregas/villedaAbner/src/Conversor.java) (Reto 001)
 
 ```java
 int horas = (Tsegundos/3600) % 60;
@@ -112,7 +112,7 @@ int dias = (Tsegundos / 86400 ) % 24;
 
 ## Pregunta 7
 
-Archivo: `Devolucion.java` (Reto 001)
+Archivo: `Devolucion.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/c4c754632c7dc5420e7bb9f2e363d57ad3a780a5/entregas/villedaAbner/src/Devolucion.java) (Reto 001)
 
 ```java
 int cambio = pago - deposito;
@@ -125,7 +125,7 @@ cambio *= (cambio < 0) ? -1 : 1;
 
 ## Pregunta 8
 
-Archivo: `CalculadoraPrecio.java` (Reto 001)
+Archivo: `CalculadoraPrecio.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/c4c754632c7dc5420e7bb9f2e363d57ad3a780a5/entregas/villedaAbner/src/CalculadoraPrecio.java) (Reto 001)
 
 ```java
 System.out.println("IVA : " + 100*(1-tipoIVA) + "%");
@@ -138,7 +138,7 @@ System.out.println("Descuento : " + 100*(1 - descuento) + "%");
 
 ## Pregunta 9
 
-Archivo: `RetoEdificio.java` (Reto 003)
+Archivo: `RetoEdificio.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/b0a9f229997b9d22b212e4f4df9767f93d4d9a0f/entregas/villedaAbner/src/RetoEdificio.java) (Reto 003)
 
 ```java
 for (int columna = 1; columna <= 8; columna++) {
@@ -160,7 +160,7 @@ for (int columna = 1; columna <= 8; columna++) {
 
 ## Pregunta 10
 
-Archivo: `PeleaHeroe.java` (Reto 002)
+Archivo: `PeleaHeroe.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/095eeb1c6244261603f2a723b156679436a4a41b/entregas/villedaAbner/src/PeleaHeroe.java) (Reto 002)
 
 ```java
 do {
@@ -185,4 +185,3 @@ do {
 - Identificación correcta del error: 40%
 - Explicación del porqué es un error: 30%
 - Propuesta de corrección válida: 30%
-

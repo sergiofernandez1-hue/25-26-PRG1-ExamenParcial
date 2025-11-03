@@ -22,7 +22,7 @@ Nota: Responde 5 de las 9 preguntas (elige libremente).
 
 ## Pregunta 1
 
-Archivo: `CalculadoraDePrecio.java` (Reto 001)
+Archivo: `CalculadoraDePrecio.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/1876fbf4f06a47bf6d7997067adf1984538ee87c/evaluaciones/retos/CalculadoraDePrecio.java) (Reto 001)
 
 ```java
 double descuento=0;
@@ -35,7 +35,7 @@ descuento=(unidades<10?0:(unidades<50?0.05:(unidades<100?0.10:0.15)));
 
 ## Pregunta 2
 
-Archivo: `DevolucionCambio.java` (Reto 001)
+Archivo: `DevolucionCambio.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/1876fbf4f06a47bf6d7997067adf1984538ee87c/evaluaciones/retos/DevolucionCambio.java) (Reto 001)
 
 ```java
 int billetes=cambio/100;
@@ -50,7 +50,7 @@ System.out.println(billetes+" monedas de 1");
 
 ## Pregunta 3
 
-Archivo: `ConversorDeDuracion.java` (Reto 001)
+Archivo: `ConversorDeDuracion.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/1876fbf4f06a47bf6d7997067adf1984538ee87c/evaluaciones/retos/ConversorDeDuracion.java) (Reto 001)
 
 ```java
 int dias=segundos/SEGUNDOS_POR_DIA;
@@ -67,7 +67,7 @@ resto=resto%SEGUNDOS_POR_MINUTO;
 
 ## Pregunta 4
 
-Archivo: `Reto_002.java` (Reto 002)
+Archivo: `Reto_002.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/1876fbf4f06a47bf6d7997067adf1984538ee87c/evaluaciones/retos/Reto_002.java) (Reto 002)
 
 ```java
 boolean vampiroVivo = true;
@@ -84,7 +84,7 @@ if (vampiroVivo) {
 
 ## Pregunta 5
 
-Archivo: `Reto_002.java` (Reto 002)
+Archivo: `Reto_002.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/1876fbf4f06a47bf6d7997067adf1984538ee87c/evaluaciones/retos/Reto_002.java) (Reto 002)
 
 ```java
 final int ATAQUE_1 = 7;
@@ -100,7 +100,7 @@ final double ATAQUE_PROBABILIDAD_3 = 0.12;
 
 ## Pregunta 6
 
-Archivo: `DevolucionCambio.java` (Reto 001)
+Archivo: `DevolucionCambio.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/1876fbf4f06a47bf6d7997067adf1984538ee87c/evaluaciones/retos/DevolucionCambio.java) (Reto 001)
 
 ```java
 billetes=resto/2;
@@ -116,7 +116,7 @@ System.out.println(billetes+" monedas de 1");
 
 ## Pregunta 7
 
-Archivo: `Reto_002.java` (Reto 002)
+Archivo: `Reto_002.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/1876fbf4f06a47bf6d7997067adf1984538ee87c/evaluaciones/retos/Reto_002.java) (Reto 002)
 
 ```java
 vampiroVivo = vidaVampiro <= 0;
@@ -135,7 +135,7 @@ if (vampiroVivo) {
 
 ## Pregunta 8
 
-Archivo: `Reto_002.java` (Reto 002)
+Archivo: `Reto_002.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/1876fbf4f06a47bf6d7997067adf1984538ee87c/evaluaciones/retos/Reto_002.java) (Reto 002)
 
 ```java
 final int DAÑO_ESPADA = 2;
@@ -151,7 +151,7 @@ final double PORCENTAJE_EXITO_GUERRERO = 0.5;
 
 ## Pregunta 9
 
-Archivo: `CalculadoraDePrecio.java` (Reto 001)
+Archivo: `CalculadoraDePrecio.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/1876fbf4f06a47bf6d7997067adf1984538ee87c/evaluaciones/retos/CalculadoraDePrecio.java) (Reto 001)
 
 ```java
 System.out.println("Descuento aplicado: "+(descuento*100+"%"));
@@ -166,4 +166,3 @@ System.out.println("Descuento aplicado: "+(descuento*100+"%"));
 - Identificación correcta del error: 40%
 - Explicación del porqué es un error: 30%
 - Propuesta de corrección válida: 30%
-

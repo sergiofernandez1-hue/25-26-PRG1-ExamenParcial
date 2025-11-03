@@ -22,7 +22,7 @@ Nota: Responde 5 de las 10 preguntas (elige libremente).
 
 ## Pregunta 1
 
-Archivo: `batalla.java` (Reto 002)
+Archivo: `batalla.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/9e22e6b4d9d17e163a7524e158e4c81911b2a8c4/batalla.java) (Reto 002)
 
 ```java
 final int DAÑO_ESPADA = 2;
@@ -40,7 +40,7 @@ final double PORCENTAJE_EXITO_VAMPIRO = 0.5;
 
 ## Pregunta 2
 
-Archivo: `batalla.java` (Reto 002)
+Archivo: `batalla.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/9e22e6b4d9d17e163a7524e158e4c81911b2a8c4/batalla.java) (Reto 002)
 
 ```java
 if (Math.random() < PORCENTAJE_EXITO_GUERRERO) {
@@ -57,7 +57,7 @@ if (Math.random() < PORCENTAJE_EXITO_GUERRERO) {
 
 ## Pregunta 3
 
-Archivo: `batalla.java` (Reto 002)
+Archivo: `batalla.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/9e22e6b4d9d17e163a7524e158e4c81911b2a8c4/batalla.java) (Reto 002)
 
 ```java
 boolean vampiroVivo = vidaVampiro > 0;
@@ -75,7 +75,7 @@ if (vampiroVivo) {
 
 ## Pregunta 4
 
-Archivo: `batalla.java` (Reto 002)
+Archivo: `batalla.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/9e22e6b4d9d17e163a7524e158e4c81911b2a8c4/batalla.java) (Reto 002)
 
 ```java
 System.out.println("vidaGuerrero [" + vidaGuerrero + "] / vidaVampiro [" + vidaVampiro + "]");
@@ -89,7 +89,7 @@ algunMuerto = !guerreroVivo || !vampiroVivo;
 
 ## Pregunta 5
 
-Archivo: `batalla.java` (Reto 002)
+Archivo: `batalla.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/9e22e6b4d9d17e163a7524e158e4c81911b2a8c4/batalla.java) (Reto 002)
 
 ```java
 String elGanador = vidaGuerrero > 0 ? "Guerrero" : "Vampiro";
@@ -102,7 +102,7 @@ System.out.println("Ganó el " + elGanador);
 
 ## Pregunta 6
 
-Archivo: `Batalla.java` (Reto 002)
+Archivo: `Batalla.java` — [PRs del alumno](https://github.com/mmasias/25-26-PRG1/pulls?q=is%3Apr+author%3Amarcosruiz-glitch+is%3Aall) (Reto 002)
 
 ```java
 do {
@@ -123,7 +123,7 @@ do {
 
 ## Pregunta 7
 
-Archivo: `Edificio.java` (Reto 003)
+Archivo: `Edificio.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/9e22e6b4d9d17e163a7524e158e4c81911b2a8c4/entregas/Edificio.java) (Reto 003)
 
 ```java
 Boolean abierta, encendida;
@@ -139,7 +139,7 @@ for (int dia = 0; dia < 7; dia++) {
 
 ## Pregunta 8
 
-Archivo: `Edificio.java` (Reto 003)
+Archivo: `Edificio.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/9e22e6b4d9d17e163a7524e158e4c81911b2a8c4/entregas/Edificio.java) (Reto 003)
 
 ```java
 for (int columna = 1; columna <= 6; columna++) {
@@ -160,7 +160,7 @@ for (int columna = 1; columna <= 6; columna++) {
 
 ## Pregunta 9
 
-Archivo: `Batalla.java` (Reto 002)
+Archivo: `Batalla.java` — [PRs del alumno](https://github.com/mmasias/25-26-PRG1/pulls?q=is%3Apr+author%3Amarcosruiz-glitch+is%3Aall) (Reto 002)
 
 ```java
 boolean vampiroVivo = vidaVampiro > 0;
@@ -187,7 +187,7 @@ algunMuerto = !guerreroVivo || !vampiroVivo;
 
 ## Pregunta 10
 
-Archivo: `Batalla.java` (Reto 002)
+Archivo: `Batalla.java` — [PRs del alumno](https://github.com/mmasias/25-26-PRG1/pulls?q=is%3Apr+author%3Amarcosruiz-glitch+is%3Aall) (Reto 002)
 
 ```java
 boolean guerreroVivo = vidaGuerrero > 0;
@@ -206,4 +206,3 @@ algunMuerto = !guerreroVivo || !vampiroVivo;
 - Identificación correcta del error: 40%
 - Explicación del porqué es un error: 30%
 - Propuesta de corrección válida: 30%
-

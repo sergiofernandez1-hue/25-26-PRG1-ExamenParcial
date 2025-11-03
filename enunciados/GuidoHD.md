@@ -22,7 +22,7 @@ Nota: Responde 5 de las 9 preguntas (elige libremente).
 
 ## Pregunta 1
 
-Archivo: `UnEdificio.java` (Reto 003)
+Archivo: `UnEdificio.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/1ce0c911d2fddb8930e1a76dea5c498a875b9fe8/entregas/marcos.huidobro/UnEdificio.java) (Reto 003)
 
 ```java
 final String TEJADO = "               __/\\__\n" +
@@ -36,7 +36,7 @@ final String TEJADO = "               __/\\__\n" +
 
 ## Pregunta 2
 
-Archivo: `UnEdificio.java` (Reto 003)
+Archivo: `UnEdificio.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/1ce0c911d2fddb8930e1a76dea5c498a875b9fe8/entregas/marcos.huidobro/UnEdificio.java) (Reto 003)
 
 ```java
 for (int dia = 1; dia <= DIAS; dia++) {
@@ -52,7 +52,7 @@ for (int dia = 1; dia <= DIAS; dia++) {
 
 ## Pregunta 3
 
-Archivo: `UnEdificio.java` (Reto 003)
+Archivo: `UnEdificio.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/1ce0c911d2fddb8930e1a76dea5c498a875b9fe8/entregas/marcos.huidobro/UnEdificio.java) (Reto 003)
 
 ```java
 String fila = ":";
@@ -67,7 +67,7 @@ fila += ESPACIO_CENTRAL + ":";
 
 ## Pregunta 4
 
-Archivo: `UnEdificio.java` (Reto 003)
+Archivo: `UnEdificio.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/1ce0c911d2fddb8930e1a76dea5c498a875b9fe8/entregas/marcos.huidobro/UnEdificio.java) (Reto 003)
 
 ```java
 boolean persiana_abierta = Math.random() < PROBABILIDAD_PERSIANA_ABIERTA;
@@ -85,7 +85,7 @@ if (persiana_abierta) {
 
 ## Pregunta 5
 
-Archivo: `UnEdificio.java` (Reto 003)
+Archivo: `UnEdificio.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/1ce0c911d2fddb8930e1a76dea5c498a875b9fe8/entregas/marcos.huidobro/UnEdificio.java) (Reto 003)
 
 ```java
 System.out.println("Día " + dia + " - " + (hora < 10 ? "0" + hora : hora) + ":00h\n");
@@ -97,7 +97,7 @@ System.out.println("Día " + dia + " - " + (hora < 10 ? "0" + hora : hora) + ":0
 
 ## Pregunta 6
 
-Archivo: `UnEdificio.java` (Reto 003)
+Archivo: `UnEdificio.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/1ce0c911d2fddb8930e1a76dea5c498a875b9fe8/entregas/marcos.huidobro/UnEdificio.java) (Reto 003)
 
 ```java
 for (int numero_planta = PLANTAS; numero_planta >= 1; numero_planta--) {
@@ -111,7 +111,7 @@ for (int numero_planta = PLANTAS; numero_planta >= 1; numero_planta--) {
 
 ## Pregunta 7
 
-Archivo: `UnEdificio.java` (Reto 003)
+Archivo: `UnEdificio.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/1ce0c911d2fddb8930e1a76dea5c498a875b9fe8/entregas/marcos.huidobro/UnEdificio.java) (Reto 003)
 
 ```java
 for (int i = 0; i < lado; i++) {
@@ -125,7 +125,7 @@ for (int i = 0; i < lado; i++) {
 
 ## Pregunta 8
 
-Archivo: `UnEdificio.java` (Reto 003)
+Archivo: `UnEdificio.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/1ce0c911d2fddb8930e1a76dea5c498a875b9fe8/entregas/marcos.huidobro/UnEdificio.java) (Reto 003)
 
 ```java
 final String TEJADO = "               __/\\__\n" + "  |    |    |  |####|  |    |    |  \n" + "====================================";
@@ -139,7 +139,7 @@ final String SUELO = "------------------------------------\n" + "     ==========
 
 ## Pregunta 9
 
-Archivo: `UnEdificio.java` (Reto 003)
+Archivo: `UnEdificio.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/1ce0c911d2fddb8930e1a76dea5c498a875b9fe8/entregas/marcos.huidobro/UnEdificio.java) (Reto 003)
 
 ```java
 if (i < lado - 1) fila += ":";
@@ -154,4 +154,3 @@ if (i < lado - 1) fila += ":";
 - Identificación correcta del error: 40%
 - Explicación del porqué es un error: 30%
 - Propuesta de corrección válida: 30%
-

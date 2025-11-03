@@ -22,7 +22,7 @@ Nota: Responde 5 de las 9 preguntas (elige libremente).
 
 ## Pregunta 1
 
-Archivo: `GuerreroVsVampiro.java` (Reto 001/PRG1)
+Archivo: `GuerreroVsVampiro.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/16fce73f7e86ff94ebff72fcb8be701559f96ba5/entregas/AstorecaHugo/reto-002/GuerreroVsVampiro.java) (Reto 001/PRG1)
 
 ```java
 do {
@@ -42,7 +42,7 @@ do {
 
 ## Pregunta 2
 
-Archivo: `CalcularPrecioFinal.java` (Reto 001)
+Archivo: `CalcularPrecioFinal.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/16fce73f7e86ff94ebff72fcb8be701559f96ba5/entregas/AstorecaHugo/reto-001/CalcularPrecioFinal.java) (Reto 001)
 
 ```java
 double precioInicial = precioCentimos / 100.0;
@@ -58,7 +58,7 @@ double precioTotal = precioFinal * cantidadProducto;
 
 ## Pregunta 3
 
-Archivo: `ConvertirDuracion.java` (Reto 001)
+Archivo: `ConvertirDuracion.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/16fce73f7e86ff94ebff72fcb8be701559f96ba5/entregas/AstorecaHugo/reto-001/ConvertirDuracion.java) (Reto 001)
 
 ```java
 final int DIAS_EN_SEGUNDOS = 86400;
@@ -74,7 +74,7 @@ int horas = (segundos % DIAS_EN_SEGUNDOS) / HORAS_EN_SEGUNDOS;
 
 ## Pregunta 4
 
-Archivo: `Edificio.java` (Reto 003)
+Archivo: `Edificio.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/16fce73f7e86ff94ebff72fcb8be701559f96ba5/entregas/AstorecaHugo/reto-003/Edificio.java) (Reto 003)
 
 ```java
 System.out.println("TECHO_ALTO");
@@ -88,7 +88,7 @@ System.out.println("TECHO_BAJO");
 
 ## Pregunta 5
 
-Archivo: `Edificio.java` (Reto 003)
+Archivo: `Edificio.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/16fce73f7e86ff94ebff72fcb8be701559f96ba5/entregas/AstorecaHugo/reto-003/Edificio.java) (Reto 003)
 
 ```java
 System.out.print(!abierta ? VENTANA_CERRADA : (encendida ? VENTANA_ABIERTA_CON_LUZ : VENTANA_ABIERTA_SIN_LUZ));
@@ -103,7 +103,7 @@ if (columna == 3) {
 
 ## Pregunta 6
 
-Archivo: `Edificio.java` (Reto 003)
+Archivo: `Edificio.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/16fce73f7e86ff94ebff72fcb8be701559f96ba5/entregas/AstorecaHugo/reto-003/Edificio.java) (Reto 003)
 
 ```java
 System.out.println("Son las" +hora+ "del día"+dia) ;
@@ -118,7 +118,7 @@ System.out.println("TECHO_BAJO");
 
 ## Pregunta 7
 
-Archivo: `Edificio.java` (Reto 003)
+Archivo: `Edificio.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/16fce73f7e86ff94ebff72fcb8be701559f96ba5/entregas/AstorecaHugo/reto-003/Edificio.java) (Reto 003)
 
 ```java
 } System.out.println("BASE");
@@ -130,7 +130,7 @@ Archivo: `Edificio.java` (Reto 003)
 
 ## Pregunta 8
 
-Archivo: `ConvertirDuracion.java` (Reto 001)
+Archivo: `ConvertirDuracion.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/16fce73f7e86ff94ebff72fcb8be701559f96ba5/entregas/AstorecaHugo/reto-001/ConvertirDuracion.java) (Reto 001)
 
 ```java
 System.out.println ( minutos + "minutos");
@@ -145,7 +145,7 @@ System.out.println ( dias + "dias");
 
 ## Pregunta 9
 
-Archivo: `GuerreroVsVampiroExtendido.java` (Reto 002)
+Archivo: `GuerreroVsVampiroExtendido.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/16fce73f7e86ff94ebff72fcb8be701559f96ba5/entregas/AstorecaHugo/reto-002/GuerreroVsVampiroExtendido.java) (Reto 002)
 
 ```java
 int ataque = ((int) (Math.random() * 100)) % 3 + 1;
@@ -160,4 +160,3 @@ int ataque = ((int) (Math.random() * 100)) % 3 + 1;
 - Identificación correcta del error: 40%
 - Explicación del porqué es un error: 30%
 - Propuesta de corrección válida: 30%
-

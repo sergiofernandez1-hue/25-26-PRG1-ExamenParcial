@@ -22,7 +22,7 @@ Nota: Responde 5 de las 10 preguntas (elige libremente).
 
 ## Pregunta 1
 
-Archivo: `ClasificacionEdades.java` (Ejercicios)
+Archivo: `ClasificacionEdades.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/800caa907f89e594d366a3e24ace25b5ca7cc251/ClasificacionEdades.java) (Ejercicios)
 
 ```java
 if (edad < EDAD_INFANCIA) {
@@ -40,7 +40,7 @@ if (edad < EDAD_INFANCIA) {
 
 ## Pregunta 2
 
-Archivo: `PiedraPapelTijera.java` (Ejercicios)
+Archivo: `PiedraPapelTijera.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/800caa907f89e594d366a3e24ace25b5ca7cc251/PiedraPapelTijera.java) (Ejercicios)
 
 ```java
 class juego {
@@ -56,7 +56,7 @@ class juego {
 
 ## Pregunta 3
 
-Archivo: `CalcularPrecioFinal.java` (Reto 001)
+Archivo: `CalcularPrecioFinal.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/800caa907f89e594d366a3e24ace25b5ca7cc251/entregas/AcevedoMarcos/Reto-001/CalcularPrecioFinal.java) (Reto 001)
 
 ```java
 // entrada de datos -> cálculo -> salida
@@ -69,7 +69,7 @@ Archivo: `CalcularPrecioFinal.java` (Reto 001)
 
 ## Pregunta 4
 
-Archivo: `BatallaHeroeVampirosextendido.java` (Reto 002)
+Archivo: `BatallaHeroeVampirosextendido.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/800caa907f89e594d366a3e24ace25b5ca7cc251/entregas/AcevedoMarcos/Reto-002/BatallaHeroeVampirosextendido.java) (Reto 002)
 
 ```java
 int opcion = scanner.nextInt();
@@ -86,7 +86,7 @@ else if (opcion == 3) { ataqueHeroe = 30; probExitoHeroe = 0.12; }
 
 ## Pregunta 5
 
-Archivo: `edificio.java` (Reto 003)
+Archivo: `edificio.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/800caa907f89e594d366a3e24ace25b5ca7cc251/entregas/AcevedoMarcos/Reto-003/edificio.java) (Reto 003)
 
 ```java
 for (int hora=0; hora<=24; hora++) {
@@ -110,7 +110,7 @@ for (int hora=0; hora<=24; hora++) {
 
 ## Pregunta 6
 
-Archivo: `ClasificacionEdades.java` (Reto 003)
+Archivo: `ClasificacionEdades.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/800caa907f89e594d366a3e24ace25b5ca7cc251/ClasificacionEdades.java) (Reto 003)
 
 ```java
 else if (edad < EDAD_ADOLESCENCIA && edad > EDAD_NIÑO) {
@@ -130,7 +130,7 @@ else if (edad < EDAD_ADULTO && edad > EDAD_ADOLESCENCIA) {
 
 ## Pregunta 7
 
-Archivo: `GeneradorRandomNumeros.java` (Reto 003)
+Archivo: `GeneradorRandomNumeros.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/800caa907f89e594d366a3e24ace25b5ca7cc251/Prog1/retos/GeneradorRandomNumeros.java) (Reto 003)
 
 ```java
 int numeroAleatorio=(int) (Math.random()*100)+1;
@@ -148,7 +148,7 @@ for (int i = 0; i < 10; i++) {
 
 ## Pregunta 8
 
-Archivo: `ConvertirDuracion.java` (Reto 001)
+Archivo: `ConvertirDuracion.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/800caa907f89e594d366a3e24ace25b5ca7cc251/entregas/AcevedoMarcos/Reto-001/ConvertirDuracion.java) (Reto 001)
 
 ```java
 int segundosTotales;
@@ -170,7 +170,7 @@ segundosTotales = segundosTotales % 3600;
 
 ## Pregunta 9
 
-Archivo: `BatallaHeroeVampirosbase.java` (Reto 002)
+Archivo: `BatallaHeroeVampirosbase.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/800caa907f89e594d366a3e24ace25b5ca7cc251/entregas/AcevedoMarcos/Reto-002/BatallaHeroeVampirosbase.java) (Reto 002)
 
 ```java
 int vidaVampiro = 10;
@@ -188,7 +188,7 @@ final int DAÑO_MORDIDA = 4;
 
 ## Pregunta 10
 
-Archivo: `PiedraPapelTijera.java` (Reto 003)
+Archivo: `PiedraPapelTijera.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/800caa907f89e594d366a3e24ace25b5ca7cc251/PiedraPapelTijera.java) (Reto 003)
 
 ```java
 int ordenador = (int) (Math.random() * 3) + 1;
@@ -204,4 +204,3 @@ System.out.println("El ordenador ha elegido: " + ordenador);
 - Identificación correcta del error: 40%
 - Explicación del porqué es un error: 30%
 - Propuesta de corrección válida: 30%
-

@@ -22,7 +22,7 @@ Nota: Responde 5 de las 10 preguntas (elige libremente).
 
 ## Pregunta 1
 
-Archivo: `UnEdificio.java` (Reto 003)
+Archivo: `UnEdificio.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/4d7909c8c0fd87d1f339f1f8445afe00b92ce200/entregas/bolivarMarcos/UnEdificio.java) (Reto 003)
 
 ```java
 for (int hora = 0; hora <= 24; hora++) {
@@ -37,7 +37,7 @@ for (int hora = 0; hora <= 24; hora++) {
 
 ## Pregunta 2
 
-Archivo: `UnEdificio.java` (Reto 003)
+Archivo: `UnEdificio.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/4d7909c8c0fd87d1f339f1f8445afe00b92ce200/entregas/bolivarMarcos/UnEdificio.java) (Reto 003)
 
 ```java
 for (int columna = 1; columna <= 7; columna++) {
@@ -62,7 +62,7 @@ for (int columna = 1; columna <= 7; columna++) {
 
 ## Pregunta 3
 
-Archivo: `UnEdificio.java` (Reto 003)
+Archivo: `UnEdificio.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/4d7909c8c0fd87d1f339f1f8445afe00b92ce200/entregas/bolivarMarcos/UnEdificio.java) (Reto 003)
 
 ```java
 final double PROBABILIDAD_LUZ_ENCENDIDA = 0.5;
@@ -78,7 +78,7 @@ if(abierta && encendida){
 
 ## Pregunta 4
 
-Archivo: `UnEdificio.java` (Reto 003)
+Archivo: `UnEdificio.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/4d7909c8c0fd87d1f339f1f8445afe00b92ce200/entregas/bolivarMarcos/UnEdificio.java) (Reto 003)
 
 ```java
 final String LADRILLOS = ":";
@@ -92,7 +92,7 @@ System.out.print(LADRILLOS + (!abierta ? VENTANA_CERRADA : encendida ? LUZ_ENCEN
 
 ## Pregunta 5
 
-Archivo: `UnEdificio.java` (Reto 003)
+Archivo: `UnEdificio.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/4d7909c8c0fd87d1f339f1f8445afe00b92ce200/entregas/bolivarMarcos/UnEdificio.java) (Reto 003)
 
 ```java
 System.out.println("El gasto total fue de: "+totalGastodia);
@@ -104,7 +104,7 @@ System.out.println("El gasto total fue de: "+totalGastodia);
 
 ## Pregunta 6
 
-Archivo: `CalculadoraDeCambio.java` (Reto 001)
+Archivo: `CalculadoraDeCambio.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/4033432df806ebdcadd8d4d92da57704b50bbf5e/entregas/bolivarMarcos/reto001/CalculadoraDeCambio.java) (Reto 001)
 
 ```java
 int costo;
@@ -122,7 +122,7 @@ int ingreso = Pago.nextInt();
 
 ## Pregunta 7
 
-Archivo: `CalculadoraTiempo.java` (Reto 001)
+Archivo: `CalculadoraTiempo.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/4033432df806ebdcadd8d4d92da57704b50bbf5e/entregas/bolivarMarcos/reto001/CalculadoraTiempo.java) (Reto 001)
 
 ```java
 minutos = segundos / SEGUNDOS_POR_MINUTO;
@@ -140,7 +140,7 @@ segundos = segundos >= SEGUNDOS_POR_MINUTO ? segundos % SEGUNDOS_POR_MINUTO : se
 
 ## Pregunta 8
 
-Archivo: `reto002.java` (Reto 002)
+Archivo: `reto002.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/3adeba9cfb925185ab8953a36aeffb18ae9aa58c/entregas/bolivarMarcos/reto002/reto002.java) (Reto 002)
 
 ```java
 if (numeroArmaEscogida == 5 && pocion) {
@@ -161,7 +161,7 @@ if (turno == turnoActual + 3) {
 
 ## Pregunta 9
 
-Archivo: `UnEdificio.java` (Reto 003)
+Archivo: `UnEdificio.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/4d7909c8c0fd87d1f339f1f8445afe00b92ce200/entregas/bolivarMarcos/UnEdificio.java) (Reto 003)
 
 ```java
 for (int fila = 1; fila <= 7; fila++) {
@@ -187,7 +187,7 @@ for (int fila = 1; fila <= 7; fila++) {
 
 ## Pregunta 10
 
-Archivo: `CalculadoraDePrecioFinal.java` (Reto 001)
+Archivo: `CalculadoraDePrecioFinal.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/4033432df806ebdcadd8d4d92da57704b50bbf5e/entregas/bolivarMarcos/reto001/CalculadoraDePrecioFinal.java) (Reto 001)
 
 ```java
 PrecioUnitarioBase = (int) (Math.random() * 10000 + 100);
@@ -207,4 +207,3 @@ Scanner imput = new Scanner(System.in);
 - Identificación correcta del error: 40%
 - Explicación del porqué es un error: 30%
 - Propuesta de corrección válida: 30%
-

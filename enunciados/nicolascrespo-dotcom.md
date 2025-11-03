@@ -22,7 +22,7 @@ Nota: Responde 5 de las 10 preguntas (elige libremente).
 
 ## Pregunta 1
 
-Archivo: `reto-003.java` (Reto 003)
+Archivo: `reto-003.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/2a6e8b6dfca704a09231d5ccc0d8dec2d30f3111/entregas/CrespoNicolas/reto-003.java) (Reto 003)
 
 ```java
 for (int hora = 0; hora < 24; hora++) {
@@ -37,7 +37,7 @@ for (int hora = 0; hora < 24; hora++) {
 
 ## Pregunta 2
 
-Archivo: `reto-003.java` (Reto 003)
+Archivo: `reto-003.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/2a6e8b6dfca704a09231d5ccc0d8dec2d30f3111/entregas/CrespoNicolas/reto-003.java) (Reto 003)
 
 ```java
 if (columna == 3) {
@@ -53,7 +53,7 @@ if (columna == 3) {
 
 ## Pregunta 3
 
-Archivo: `reto-003.java` (Reto 003)
+Archivo: `reto-003.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/2a6e8b6dfca704a09231d5ccc0d8dec2d30f3111/entregas/CrespoNicolas/reto-003.java) (Reto 003)
 
 ```java
 final String VENTANA_ABIERTA_SIN_LUZ = "[º]";
@@ -68,7 +68,7 @@ final String LADRILLOS = ":";
 
 ## Pregunta 4
 
-Archivo: `reto-003.java` (Reto 003)
+Archivo: `reto-003.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/2a6e8b6dfca704a09231d5ccc0d8dec2d30f3111/entregas/CrespoNicolas/reto-003.java) (Reto 003)
 
 ```java
 System.out.println("               __/\\__\n" +
@@ -87,7 +87,7 @@ System.out.println("------------------------------------\n" +
 
 ## Pregunta 5
 
-Archivo: `reto-003.java` (Reto 003)
+Archivo: `reto-003.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/2a6e8b6dfca704a09231d5ccc0d8dec2d30f3111/entregas/CrespoNicolas/reto-003.java) (Reto 003)
 
 ```java
 public class HotelDeLaAgonia {
@@ -103,7 +103,7 @@ public class HotelDeLaAgonia {
 
 ## Pregunta 6
 
-Archivo: `reto-003.java` (Reto 003)
+Archivo: `reto-003.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/2a6e8b6dfca704a09231d5ccc0d8dec2d30f3111/entregas/CrespoNicolas/reto-003.java) (Reto 003)
 
 ```java
 for (int dia = 1; dia <= 7; dia++) {
@@ -123,7 +123,7 @@ for (int dia = 1; dia <= 7; dia++) {
 
 ## Pregunta 7
 
-Archivo: `reto-003.java` (Reto 003)
+Archivo: `reto-003.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/2a6e8b6dfca704a09231d5ccc0d8dec2d30f3111/entregas/CrespoNicolas/reto-003.java) (Reto 003)
 
 ```java
 for (int columna = 1; columna <= 6; columna++) {
@@ -141,7 +141,7 @@ for (int columna = 1; columna <= 6; columna++) {
 
 ## Pregunta 8
 
-Archivo: `batalla` (Reto 002)
+Archivo: `batalla` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/319e41ca940d686ce0fc460f8ff2d4117acf3e53/batalla) (Reto 002)
 
 ```java
 if (Math.random() < posibilidadExitoGuerrero && numeroArmaEscogida != 4) {
@@ -162,7 +162,7 @@ if (Math.random() < posibilidadExitoGuerrero && numeroArmaEscogida != 4) {
 
 ## Pregunta 9
 
-Archivo: `batalla` (Reto 002)
+Archivo: `batalla` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/319e41ca940d686ce0fc460f8ff2d4117acf3e53/batalla) (Reto 002)
 
 ```java
 } else {
@@ -180,7 +180,7 @@ Archivo: `batalla` (Reto 002)
 
 ## Pregunta 10
 
-Archivo: `reto-003.java` (Reto 003)
+Archivo: `reto-003.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/2a6e8b6dfca704a09231d5ccc0d8dec2d30f3111/entregas/CrespoNicolas/reto-003.java) (Reto 003)
 
 ```java
         }
@@ -200,4 +200,3 @@ Archivo: `reto-003.java` (Reto 003)
 - Identificación correcta del error: 40%
 - Explicación del porqué es un error: 30%
 - Propuesta de corrección válida: 30%
-

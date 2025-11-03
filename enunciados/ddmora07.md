@@ -22,7 +22,7 @@ Nota: Responde 5 de las 10 preguntas (elige libremente).
 
 ## Pregunta 1
 
-Archivo: `Edificiointereactivo.java` (Reto 003)
+Archivo: `Edificiointereactivo.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/166e129d4c0c4cf46f752f8011ed5a2626eb42ec/entregas/moraDaniel/Edificiointereactivo.java) (Reto 003)
 
 ```java
 class Edificiointereactivo {
@@ -38,7 +38,7 @@ class Edificiointereactivo {
 
 ## Pregunta 2
 
-Archivo: `Edificiointereactivo.java` (Reto 003)
+Archivo: `Edificiointereactivo.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/166e129d4c0c4cf46f752f8011ed5a2626eb42ec/entregas/moraDaniel/Edificiointereactivo.java) (Reto 003)
 
 ```java
 while (dia <= DIAS) {
@@ -58,7 +58,7 @@ while (dia <= DIAS) {
 
 ## Pregunta 3
 
-Archivo: `Edificiointereactivo.java` (Reto 003)
+Archivo: `Edificiointereactivo.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/166e129d4c0c4cf46f752f8011ed5a2626eb42ec/entregas/moraDaniel/Edificiointereactivo.java) (Reto 003)
 
 ```java
 if (hayRayo && c == columnaRayo) {
@@ -81,7 +81,7 @@ if (hayRayo && c == columnaRayo) {
 
 ## Pregunta 4
 
-Archivo: `Edificiointereactivo.java` (Reto 003)
+Archivo: `Edificiointereactivo.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/166e129d4c0c4cf46f752f8011ed5a2626eb42ec/entregas/moraDaniel/Edificiointereactivo.java) (Reto 003)
 
 ```java
 System.out.println("Dia " + dia + " - " + hora + ":00  Consumo hora: " + consumoDia);
@@ -93,7 +93,7 @@ System.out.println("Dia " + dia + " - " + hora + ":00  Consumo hora: " + consumo
 
 ## Pregunta 5
 
-Archivo: `Edificiointereactivo.java` (Reto 003)
+Archivo: `Edificiointereactivo.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/166e129d4c0c4cf46f752f8011ed5a2626eb42ec/entregas/moraDaniel/Edificiointereactivo.java) (Reto 003)
 
 ```java
 System.out.println("Media semanal: " + (consumoTotalSemana / 7));
@@ -105,7 +105,7 @@ System.out.println("Media semanal: " + (consumoTotalSemana / 7));
 
 ## Pregunta 6
 
-Archivo: `UnEdificio.java` (Reto 003, línea 10)
+Archivo: `UnEdificio.java` — [PRs del alumno](https://github.com/mmasias/25-26-PRG1/pulls?q=is%3Apr+author%3Addmora07+is%3Aall) (Reto 003, línea 10)
 
 ```java
 final String LADRILLOS = ":";
@@ -117,7 +117,7 @@ final String LADRILLOS = ":";
 
 ## Pregunta 7
 
-Archivo: `UnEdificio.java` (Reto 003, líneas 15-16)
+Archivo: `UnEdificio.java` — [PRs del alumno](https://github.com/mmasias/25-26-PRG1/pulls?q=is%3Apr+author%3Addmora07+is%3Aall) (Reto 003, líneas 15-16)
 
 ```java
 int numeroEncendidas=0;
@@ -130,7 +130,7 @@ int totalGastodia=0;
 
 ## Pregunta 8
 
-Archivo: `UnEdificio.java` (Reto 003, líneas 27-40)
+Archivo: `UnEdificio.java` — [PRs del alumno](https://github.com/mmasias/25-26-PRG1/pulls?q=is%3Apr+author%3Addmora07+is%3Aall) (Reto 003, líneas 27-40)
 
 ```java
 for (int columna = 1; columna <= 7; columna++) {
@@ -156,7 +156,7 @@ for (int columna = 1; columna <= 7; columna++) {
 
 ## Pregunta 9
 
-Archivo: `UnEdificio.java` (Reto 003, línea 30)
+Archivo: `UnEdificio.java` — [PRs del alumno](https://github.com/mmasias/25-26-PRG1/pulls?q=is%3Apr+author%3Addmora07+is%3Aall) (Reto 003, línea 30)
 
 ```java
 abierta = Math.random() < PROBABILIDAD_PERSIANA_ABIERTA;
@@ -168,7 +168,7 @@ abierta = Math.random() < PROBABILIDAD_PERSIANA_ABIERTA;
 
 ## Pregunta 10
 
-Archivo: `UnEdificio.java` (Reto 003, línea 4)
+Archivo: `UnEdificio.java` — [PRs del alumno](https://github.com/mmasias/25-26-PRG1/pulls?q=is%3Apr+author%3Addmora07+is%3Aall) (Reto 003, línea 4)
 
 ```java
 public class UnEdificio {
@@ -183,4 +183,3 @@ public class UnEdificio {
 - Identificación correcta del error: 40%
 - Explicación del porqué es un error: 30%
 - Propuesta de corrección válida: 30%
-

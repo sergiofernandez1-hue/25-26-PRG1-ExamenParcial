@@ -22,7 +22,7 @@ Nota: Responde 5 de las 9 preguntas (elige libremente).
 
 ## Pregunta 1
 
-Archivo: `Edificio.java` (Reto 003)
+Archivo: `Edificio.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/bca521c60726a8fabc73ebc9281552231873d9fb/entregas/elhadjiNiang/src/reto003/Edificio.java) (Reto 003)
 
 ```java
 final double PERSIANA_ABIERTA = 0.7;
@@ -35,7 +35,7 @@ final double PERSIANA_CERRADA = 0.6;
 
 ## Pregunta 2
 
-Archivo: `Edificio.java` (Reto 003)
+Archivo: `Edificio.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/bca521c60726a8fabc73ebc9281552231873d9fb/entregas/elhadjiNiang/src/reto003/Edificio.java) (Reto 003)
 
 ```java
 for (int i = 0; i <= horasTotales; i++) {
@@ -56,7 +56,7 @@ for (int i = 0; i <= horasTotales; i++) {
 
 ## Pregunta 3
 
-Archivo: `Edificio.java` (Reto 003)
+Archivo: `Edificio.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/bca521c60726a8fabc73ebc9281552231873d9fb/entregas/elhadjiNiang/src/reto003/Edificio.java) (Reto 003)
 
 ```java
 for (int piso = 1; piso < 7; piso++) {
@@ -72,7 +72,7 @@ for (int piso = 1; piso < 7; piso++) {
 
 ## Pregunta 4
 
-Archivo: `Edificio.java` (Reto 003)
+Archivo: `Edificio.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/bca521c60726a8fabc73ebc9281552231873d9fb/entregas/elhadjiNiang/src/reto003/Edificio.java) (Reto 003)
 
 ```java
 System.out.println("Dia " + dia + " - " + hora + ":00h ");
@@ -84,7 +84,7 @@ System.out.println("Dia " + dia + " - " + hora + ":00h ");
 
 ## Pregunta 5
 
-Archivo: `Edificio.java` (Reto 003)
+Archivo: `Edificio.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/bca521c60726a8fabc73ebc9281552231873d9fb/entregas/elhadjiNiang/src/reto003/Edificio.java) (Reto 003)
 
 ```java
 class Edificio {
@@ -101,7 +101,7 @@ class Edificio {
 
 ## Pregunta 6
 
-Archivo: `Edificio.java` (Reto 003)
+Archivo: `Edificio.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/bca521c60726a8fabc73ebc9281552231873d9fb/entregas/elhadjiNiang/src/reto003/Edificio.java) (Reto 003)
 
 ```java
 for (int i = 0; i <= horasTotales; i++) {
@@ -120,7 +120,7 @@ for (int i = 0; i <= horasTotales; i++) {
 
 ## Pregunta 7
 
-Archivo: `Edificio.java` (Reto 003)
+Archivo: `Edificio.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/bca521c60726a8fabc73ebc9281552231873d9fb/entregas/elhadjiNiang/src/reto003/Edificio.java) (Reto 003)
 
 ```java
 for (int piso = 1; piso < 7; piso++) {
@@ -138,7 +138,7 @@ for (int piso = 1; piso < 7; piso++) {
 
 ## Pregunta 8
 
-Archivo: `Edificio.java` (Reto 003)
+Archivo: `Edificio.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/bca521c60726a8fabc73ebc9281552231873d9fb/entregas/elhadjiNiang/src/reto003/Edificio.java) (Reto 003)
 
 ```java
 System.out.println(
@@ -157,7 +157,7 @@ System.out.println(
 
 ## Pregunta 9
 
-Archivo: `Edificio.java` (Reto 003)
+Archivo: `Edificio.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/bca521c60726a8fabc73ebc9281552231873d9fb/entregas/elhadjiNiang/src/reto003/Edificio.java) (Reto 003)
 
 ```java
 for (int i = 0; i <= horasTotales; i++) {
@@ -177,4 +177,3 @@ for (int i = 0; i <= horasTotales; i++) {
 - Identificación correcta del error: 40%
 - Explicación del porqué es un error: 30%
 - Propuesta de corrección válida: 30%
-

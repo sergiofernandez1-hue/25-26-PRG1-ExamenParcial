@@ -22,7 +22,7 @@ Nota: Responde 5 de las 10 preguntas (elige libremente).
 
 ## Pregunta 1
 
-Archivo: `CalculadoraDePrecioFinal.java` (Reto 001)
+Archivo: `CalculadoraDePrecioFinal.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/6fe0288c85b7cec67a50fecda28e783147b118ff/entregas/CalculadoraDePrecioFinal.java) (Reto 001)
 
 ```java
 double euros = centimos / 100;
@@ -34,7 +34,7 @@ double euros = centimos / 100;
 
 ## Pregunta 2
 
-Archivo: `CalculadoraDePrecioFinal.java` (Reto 001)
+Archivo: `CalculadoraDePrecioFinal.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/6fe0288c85b7cec67a50fecda28e783147b118ff/entregas/CalculadoraDePrecioFinal.java) (Reto 001)
 
 ```java
 double descuento = 0;
@@ -47,7 +47,7 @@ descuento = unidades < 10 ? DESCUENTO1 : (unidades < 50 ? DESCUENTO2 : (unidades
 
 ## Pregunta 3
 
-Archivo: `CalculadoraCambio.java` (Reto 001)
+Archivo: `CalculadoraCambio.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/6fe0288c85b7cec67a50fecda28e783147b118ff/entregas/CalculadoraCambio.java) (Reto 001)
 
 ```java
 int resto = vuelta % 100;
@@ -63,7 +63,7 @@ System.out.println(resto + " moneda(s) de 1 euros");
 
 ## Pregunta 4
 
-Archivo: `ConversorDeDuracion.java` (Reto 001)
+Archivo: `ConversorDeDuracion.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/6fe0288c85b7cec67a50fecda28e783147b118ff/entregas/ConversorDeDuracion.java) (Reto 001)
 
 ```java
 final int SEGUNDO_DE_HORA = 60 * 60;
@@ -77,7 +77,7 @@ segundos = segundos % (SEGUNDO_DE_HORA);
 
 ## Pregunta 5
 
-Archivo: `Reto_003.java` (Reto 003)
+Archivo: `Reto_003.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/6fe0288c85b7cec67a50fecda28e783147b118ff/entregas/Reto_003.java) (Reto 003)
 
 ```java
 for (int dia = 1; dia < 7; dia++) {
@@ -94,7 +94,7 @@ for (int dia = 1; dia < 7; dia++) {
 
 ## Pregunta 6
 
-Archivo: `Reto_002.java` (Reto 002, líneas 23-27)
+Archivo: `Reto_002.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/6fe0288c85b7cec67a50fecda28e783147b118ff/entregas/Reto_002.java) (Reto 002, líneas 23-27)
 
 ```java
 boolean algunMuerto = false;
@@ -108,7 +108,7 @@ boolean vampiroVivo = true;
 
 ## Pregunta 7
 
-Archivo: `Reto_002.java` (Reto 002, líneas 31-48)
+Archivo: `Reto_002.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/6fe0288c85b7cec67a50fecda28e783147b118ff/entregas/Reto_002.java) (Reto 002, líneas 31-48)
 
 ```java
 if (arma == 1) {
@@ -135,7 +135,7 @@ if (arma == 1) {
 
 ## Pregunta 8
 
-Archivo: `Reto_003.java` (Reto 003, línea 30)
+Archivo: `Reto_003.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/6fe0288c85b7cec67a50fecda28e783147b118ff/entregas/Reto_003.java) (Reto 003, línea 30)
 
 ```java
 System.out.print(!abierta ? VENTANA_CERRADA : encendida ? VENTANA_ABIERTA_CON_LUZ : VENTANA_ABIERTA_SIN_LUZ);
@@ -147,7 +147,7 @@ System.out.print(!abierta ? VENTANA_CERRADA : encendida ? VENTANA_ABIERTA_CON_LU
 
 ## Pregunta 9
 
-Archivo: `CalculadoraDePrecioFinal.java` (Reto 001, líneas 5-11)
+Archivo: `CalculadoraDePrecioFinal.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/6fe0288c85b7cec67a50fecda28e783147b118ff/entregas/CalculadoraDePrecioFinal.java) (Reto 001, líneas 5-11)
 
 ```java
 final double GENERAL = 0.21;
@@ -165,7 +165,7 @@ final double DESCUENTO4 = 0.15;
 
 ## Pregunta 10
 
-Archivo: `ConversorDeDuracion.java` (Reto 001, línea 26)
+Archivo: `ConversorDeDuracion.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/6fe0288c85b7cec67a50fecda28e783147b118ff/entregas/ConversorDeDuracion.java) (Reto 001, línea 26)
 
 ```java
 System.out.println(dias + " dia" + (dias > 1 ? "s" : ""));

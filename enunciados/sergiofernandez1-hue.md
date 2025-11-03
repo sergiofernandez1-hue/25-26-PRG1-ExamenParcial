@@ -22,7 +22,7 @@ Nota: Responde 5 de las 10 preguntas (elige libremente).
 
 ## Pregunta 1
 
-Archivo: `Batalla Extendida.java` (Reto 002)
+Archivo: `Batalla Extendida.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/a15cf8e4fdd5b0802206f86a21acbc3c90357a6a/entregas/sergio.fernandez/reto-002/Batalla%20Extendida.java) (Reto 002)
 
 ```java
 class batallaExtendida {
@@ -38,7 +38,7 @@ class batallaExtendida {
 
 ## Pregunta 2
 
-Archivo: `Batalla Extendida.java` (Reto 002)
+Archivo: `Batalla Extendida.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/a15cf8e4fdd5b0802206f86a21acbc3c90357a6a/entregas/sergio.fernandez/reto-002/Batalla%20Extendida.java) (Reto 002)
 
 ```java
 switch (ataqueElegidoGuerrero){
@@ -57,7 +57,7 @@ if (vidaVampiro <= 0){
 
 ## Pregunta 3
 
-Archivo: `Batalla Extendida.java` (Reto 002)
+Archivo: `Batalla Extendida.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/a15cf8e4fdd5b0802206f86a21acbc3c90357a6a/entregas/sergio.fernandez/reto-002/Batalla%20Extendida.java) (Reto 002)
 
 ```java
 eleccionAtaqueVampiro = Math.random();
@@ -76,7 +76,7 @@ if (eleccionAtaqueVampiro <= PROBABILIDAD_ELECCION_ATAQUE_1){
 
 ## Pregunta 4
 
-Archivo: `batalla.java` (Reto 002)
+Archivo: `batalla.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/a15cf8e4fdd5b0802206f86a21acbc3c90357a6a/entregas/sergio.fernandez/reto-002/batalla.java) (Reto 002)
 
 ```java
 if (caballeroVivo == true){ /* ... */ }
@@ -90,7 +90,7 @@ if (vampiroVivo == true){ /* ... */ }
 
 ## Pregunta 5
 
-Archivo: `batalla.java` (Reto 002)
+Archivo: `batalla.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/a15cf8e4fdd5b0802206f86a21acbc3c90357a6a/entregas/sergio.fernandez/reto-002/batalla.java) (Reto 002)
 
 ```java
 System.out.println("Turno del guerrero, con " + vidaGuerrero + " puntos de vida");
@@ -106,7 +106,7 @@ if (vidaGuerrero <= 0 || vidaVampiro <= 0) {
 
 ## Pregunta 6
 
-Archivo: `batalla.java` (Reto 002)
+Archivo: `batalla.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/a15cf8e4fdd5b0802206f86a21acbc3c90357a6a/entregas/sergio.fernandez/reto-002/batalla.java) (Reto 002)
 
 ```java
 if (caballeroVivo == true){
@@ -122,7 +122,7 @@ if (caballeroVivo == true){
 
 ## Pregunta 7
 
-Archivo: `batalla.java` (Reto 002)
+Archivo: `batalla.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/a15cf8e4fdd5b0802206f86a21acbc3c90357a6a/entregas/sergio.fernandez/reto-002/batalla.java) (Reto 002)
 
 ```java
 if (vidaVampiro <=0){
@@ -140,7 +140,7 @@ if (vidaVampiro <=0){
 
 ## Pregunta 8
 
-Archivo: `Batalla Extendida.java` (Reto 002)
+Archivo: `Batalla Extendida.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/a15cf8e4fdd5b0802206f86a21acbc3c90357a6a/entregas/sergio.fernandez/reto-002/Batalla%20Extendida.java) (Reto 002)
 
 ```java
 while (ataqueElegidoGuerrero != 1 && ataqueElegidoGuerrero != 2 && ataqueElegidoGuerrero != 3){
@@ -158,7 +158,7 @@ while (ataqueElegidoGuerrero != 1 && ataqueElegidoGuerrero != 2 && ataqueElegido
 
 ## Pregunta 9
 
-Archivo: `Batalla Extendida.java` (Reto 002)
+Archivo: `Batalla Extendida.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/a15cf8e4fdd5b0802206f86a21acbc3c90357a6a/entregas/sergio.fernandez/reto-002/Batalla%20Extendida.java) (Reto 002)
 
 ```java
 eleccionAtaqueVampiro = Math.random();
@@ -181,7 +181,7 @@ if (eleccionAtaqueVampiro <= PROBABILIDAD_ELECCION_ATAQUE_1){
 
 ## Pregunta 10
 
-Archivo: `Batalla Extendida.java` (Reto 002)
+Archivo: `Batalla Extendida.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/a15cf8e4fdd5b0802206f86a21acbc3c90357a6a/entregas/sergio.fernandez/reto-002/Batalla%20Extendida.java) (Reto 002)
 
 ```java
 switch (ataqueElegidoGuerrero){
@@ -206,4 +206,3 @@ switch (ataqueElegidoGuerrero){
 - Identificación correcta del error: 40%
 - Explicación del porqué es un error: 30%
 - Propuesta de corrección válida: 30%
-

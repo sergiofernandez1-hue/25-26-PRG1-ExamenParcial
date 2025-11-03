@@ -22,7 +22,7 @@ Nota: Responde 5 de las 10 preguntas (elige libremente).
 
 ## Pregunta 1
 
-Archivo: `SimulacionHotel.java` (Reto 003)
+Archivo: `SimulacionHotel.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/68c3a571aa52659f92d22b863c17d3b5cd9f3ed9/entregas/yago.lopez/SimulacionHotel.java) (Reto 003)
 
 ```java
 while (dia <= DIAS) {
@@ -42,7 +42,7 @@ while (dia <= DIAS) {
 
 ## Pregunta 2
 
-Archivo: `SimulacionHotel.java` (Reto 003)
+Archivo: `SimulacionHotel.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/68c3a571aa52659f92d22b863c17d3b5cd9f3ed9/entregas/yago.lopez/SimulacionHotel.java) (Reto 003)
 
 ```java
 if (hayMantenimiento && hora == horaMantenimiento)
@@ -55,7 +55,7 @@ if (hayMantenimiento && hora == horaMantenimiento)
 
 ## Pregunta 3
 
-Archivo: `SimulacionHotel.java` (Reto 003)
+Archivo: `SimulacionHotel.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/68c3a571aa52659f92d22b863c17d3b5cd9f3ed9/entregas/yago.lopez/SimulacionHotel.java) (Reto 003)
 
 ```java
 if (hayRayo && c == columnaRayo) {
@@ -78,7 +78,7 @@ if (hayRayo && c == columnaRayo) {
 
 ## Pregunta 4
 
-Archivo: `SimulacionHotel.java` (Reto 003)
+Archivo: `SimulacionHotel.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/68c3a571aa52659f92d22b863c17d3b5cd9f3ed9/entregas/yago.lopez/SimulacionHotel.java) (Reto 003)
 
 ```java
 System.out.println("Dia " + dia + " - " + hora + ":00  Consumo hora: " + consumoDia);
@@ -90,7 +90,7 @@ System.out.println("Dia " + dia + " - " + hora + ":00  Consumo hora: " + consumo
 
 ## Pregunta 5
 
-Archivo: `SimulacionHotel.java` (Reto 003)
+Archivo: `SimulacionHotel.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/68c3a571aa52659f92d22b863c17d3b5cd9f3ed9/entregas/yago.lopez/SimulacionHotel.java) (Reto 003)
 
 ```java
 System.out.println("Media semanal: " + (consumoTotalSemana / 7));
@@ -102,7 +102,7 @@ System.out.println("Media semanal: " + (consumoTotalSemana / 7));
 
 ## Pregunta 6
 
-Archivo: `Calculadora de precio.java` (Reto 001)
+Archivo: `Calculadora de precio.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/ae72036461e313168f4fd4c3bf593a6ab14a683c/entregas/yago.lopez/Calculadora%20de%20precio.java) (Reto 001)
 
 ```java
 int rebaja = cantidadProducto >= 100 ? 15 :
@@ -120,7 +120,7 @@ double precioTotal = precioUnitarioFinal * cantidadProducto;
 
 ## Pregunta 7
 
-Archivo: `Conversor de segundos.java` (Reto 001)
+Archivo: `Conversor de segundos.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/ae72036461e313168f4fd4c3bf593a6ab14a683c/entregas/yago.lopez/Conversor%20de%20segundos.java) (Reto 001)
 
 ```java
 System.out.println("\n" + segundosTotales + " segundos son:");
@@ -136,7 +136,7 @@ System.out.println(segundos + " segundos");
 
 ## Pregunta 8
 
-Archivo: `SimulacionHotel.java` (Reto 003)
+Archivo: `SimulacionHotel.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/68c3a571aa52659f92d22b863c17d3b5cd9f3ed9/entregas/yago.lopez/SimulacionHotel.java) (Reto 003)
 
 ```java
 int dia = 1;
@@ -164,7 +164,7 @@ while (dia <= DIAS) {
 
 ## Pregunta 9
 
-Archivo: `SimulacionHotel.java` (Reto 003)
+Archivo: `SimulacionHotel.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/68c3a571aa52659f92d22b863c17d3b5cd9f3ed9/entregas/yago.lopez/SimulacionHotel.java) (Reto 003)
 
 ```java
 if (random.nextDouble() < PROB_MANTENIMIENTO) {
@@ -187,7 +187,7 @@ while (hora < HORAS) {
 
 ## Pregunta 10
 
-Archivo: `SimulacionHotel.java` (Reto 003)
+Archivo: `SimulacionHotel.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/68c3a571aa52659f92d22b863c17d3b5cd9f3ed9/entregas/yago.lopez/SimulacionHotel.java) (Reto 003)
 
 ```java
 int p = PLANTAS;
@@ -209,4 +209,3 @@ while (p >= 1) {
 - Identificación correcta del error: 40%
 - Explicación del porqué es un error: 30%
 - Propuesta de corrección válida: 30%
-

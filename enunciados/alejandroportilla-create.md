@@ -22,7 +22,7 @@ Nota: Responde 5 de las 9 preguntas (elige libremente).
 
 ## Pregunta 1
 
-Archivo: `Edificio.java` (Reto 003)
+Archivo: `Edificio.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/a4a32c7cefe2fbbb8310e3d8b6906a453b3ec346/entregas/PortillaAlejandro/reto-003/Edificio.java) (Reto 003)
 
 ```java
 final double PERSIANA_ABIERTA = 0.7;
@@ -35,7 +35,7 @@ final double LUZ_ENCENCIDA = 0.6;
 
 ## Pregunta 2
 
-Archivo: `Edificio.java` (Reto 003)
+Archivo: `Edificio.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/a4a32c7cefe2fbbb8310e3d8b6906a453b3ec346/entregas/PortillaAlejandro/reto-003/Edificio.java) (Reto 003)
 
 ```java
 for (int hora=0; hora<=24; hora++) {
@@ -49,7 +49,7 @@ for (int hora=0; hora<=24; hora++) {
 
 ## Pregunta 3
 
-Archivo: `Edificio.java` (Reto 003)
+Archivo: `Edificio.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/a4a32c7cefe2fbbb8310e3d8b6906a453b3ec346/entregas/PortillaAlejandro/reto-003/Edificio.java) (Reto 003)
 
 ```java
 for (int planta=1; planta<=7; planta++) {
@@ -70,7 +70,7 @@ for (int planta=1; planta<=7; planta++) {
 
 ## Pregunta 4
 
-Archivo: `CalcularPrecioFinal.java` (Reto 001)
+Archivo: `CalcularPrecioFinal.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/a4a32c7cefe2fbbb8310e3d8b6906a453b3ec346/entregas/PortillaAlejandro/Reto-001/CalcularPrecioFinal.java) (Reto 001)
 
 ```java
 double descuento = 0.0;
@@ -91,7 +91,7 @@ if (cantidad >= 100) {
 
 ## Pregunta 5
 
-Archivo: `DevolverCambio.java` (Reto 001)
+Archivo: `DevolverCambio.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/a4a32c7cefe2fbbb8310e3d8b6906a453b3ec346/entregas/PortillaAlejandro/Reto-001/DevolverCambio.java) (Reto 001)
 
 ```java
 int pagar = lector.nextInt();
@@ -106,7 +106,7 @@ int cambio = paga - pagar;
 
 ## Pregunta 6
 
-Archivo: `DevolverCambio.java` (Reto 001, líneas 36-38)
+Archivo: `DevolverCambio.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/a4a32c7cefe2fbbb8310e3d8b6906a453b3ec346/entregas/PortillaAlejandro/Reto-001/DevolverCambio.java) (Reto 001, líneas 36-38)
 
 ```java
 int monedas1 = cambio / 1;
@@ -119,7 +119,7 @@ cambio = cambio % 1;
 
 ## Pregunta 7
 
-Archivo: `BatallaHeroeVampirosextendido.java` (Reto 002, línea 95)
+Archivo: `BatallaHeroeVampirosextendido.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/a4a32c7cefe2fbbb8310e3d8b6906a453b3ec346/entregas/PortillaAlejandro/reto-002/BatallaHeroeVampirosextendido.java) (Reto 002, línea 95)
 
 ```java
 String elGanador = vidaGuerrero > 0 ? "Guerrero" : "Vampiro";System.out.println("Ganó el "+elGanador);
@@ -131,7 +131,7 @@ String elGanador = vidaGuerrero > 0 ? "Guerrero" : "Vampiro";System.out.println(
 
 ## Pregunta 8
 
-Archivo: `BatallaHeroeVampirosextendido.java` (Reto 002, líneas 31-48)
+Archivo: `BatallaHeroeVampirosextendido.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/a4a32c7cefe2fbbb8310e3d8b6906a453b3ec346/entregas/PortillaAlejandro/reto-002/BatallaHeroeVampirosextendido.java) (Reto 002, líneas 31-48)
 
 ```java
 if(arma == 1){
@@ -165,7 +165,7 @@ if(arma == 1){
 
 ## Pregunta 9
 
-Archivo: `BatallaHeroeVampirosextendido.java` (Reto 002, líneas 25-27)
+Archivo: `BatallaHeroeVampirosextendido.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/a4a32c7cefe2fbbb8310e3d8b6906a453b3ec346/entregas/PortillaAlejandro/reto-002/BatallaHeroeVampirosextendido.java) (Reto 002, líneas 25-27)
 
 ```java
 boolean algunMuerto = false;

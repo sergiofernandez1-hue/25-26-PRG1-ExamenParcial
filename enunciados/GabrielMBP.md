@@ -22,7 +22,7 @@ Nota: Responde 5 de las 7 preguntas (elige libremente).
 
 ## Pregunta 1
 
-Archivo: `Edificio.java` (Reto 003)
+Archivo: `Edificio.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/12dc820d49fab9feaab0d46987da27bf2236b0d1/entregas/bejarGabriel/reto003/Edificio.java) (Reto 003)
 
 ```java
 int PERSIANA_ABIERTA = 0.7;
@@ -35,7 +35,7 @@ int LUZ_ENCENDIDA = 0.6;
 
 ## Pregunta 2
 
-Archivo: `Edificio.java` (Reto 003)
+Archivo: `Edificio.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/12dc820d49fab9feaab0d46987da27bf2236b0d1/entregas/bejarGabriel/reto003/Edificio.java) (Reto 003)
 
 ```java
 for (int planta = 1; planta <= 6; planta++) {
@@ -56,7 +56,7 @@ for (int planta = 1; planta <= 6; planta++) {
 
 ## Pregunta 3
 
-Archivo: `Edificio.java` (Reto 003)
+Archivo: `Edificio.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/12dc820d49fab9feaab0d46987da27bf2236b0d1/entregas/bejarGabriel/reto003/Edificio.java) (Reto 003)
 
 ```java
 for (int dia = 1; dia <= 7; dia++) {
@@ -73,7 +73,7 @@ for (int dia = 1; dia <= 7; dia++) {
 
 ## Pregunta 4
 
-Archivo: `Edificio.java` (Reto 003)
+Archivo: `Edificio.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/12dc820d49fab9feaab0d46987da27bf2236b0d1/entregas/bejarGabriel/reto003/Edificio.java) (Reto 003)
 
 ```java
 final String SEPARADOR = "[    ]";
@@ -86,7 +86,7 @@ final String SEPARADOR = "[    ]";
 
 ## Pregunta 5
 
-Archivo: `Edificio.java` (Reto 003)
+Archivo: `Edificio.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/12dc820d49fab9feaab0d46987da27bf2236b0d1/entregas/bejarGabriel/reto003/Edificio.java) (Reto 003)
 
 ```java
 class Edificio {
@@ -102,7 +102,7 @@ class Edificio {
 
 ## Pregunta 6
 
-Archivo: `Edificio.java` (Reto 003)
+Archivo: `Edificio.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/12dc820d49fab9feaab0d46987da27bf2236b0d1/entregas/bejarGabriel/reto003/Edificio.java) (Reto 003)
 
 ```java
 boolean abierta, encendida;
@@ -117,7 +117,7 @@ for (int dia = 1; dia <= 7; dia++) {
 
 ## Pregunta 7
 
-Archivo: `Edificio.java` (Reto 003)
+Archivo: `Edificio.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/12dc820d49fab9feaab0d46987da27bf2236b0d1/entregas/bejarGabriel/reto003/Edificio.java) (Reto 003)
 
 ```java
 for (int columna = 1; columna <= 6; columna++) {
@@ -139,4 +139,3 @@ for (int columna = 1; columna <= 6; columna++) {
 - Identificación correcta del error: 40%
 - Explicación del porqué es un error: 30%
 - Propuesta de corrección válida: 30%
-

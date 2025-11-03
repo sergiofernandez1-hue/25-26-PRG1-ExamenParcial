@@ -22,7 +22,7 @@ Nota: Responde 5 de las 10 preguntas (elige libremente).
 
 ## Pregunta 1
 
-Archivo: `HotelLuces.java` (Reto 003)
+Archivo: `HotelLuces.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/0940bca38a3852dfc71939340aea56c2d6eddd4b/entregas/arroyosanchezdaniel/HotelLuces.java) (Reto 003)
 
 ```java
 final String VENTANA_CERRADA = ":[ ]:";
@@ -36,7 +36,7 @@ final String LUZ_ENCENDIDA = ":[*]:";
 
 ## Pregunta 2
 
-Archivo: `HotelLuces.java` (Reto 003)
+Archivo: `HotelLuces.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/0940bca38a3852dfc71939340aea56c2d6eddd4b/entregas/arroyosanchezdaniel/HotelLuces.java) (Reto 003)
 
 ```java
 for (dia = 1; dia <= 6; dia++) {
@@ -53,7 +53,7 @@ for (dia = 1; dia <= 6; dia++) {
 
 ## Pregunta 3
 
-Archivo: `HotelLuces.java` (Reto 003)
+Archivo: `HotelLuces.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/0940bca38a3852dfc71939340aea56c2d6eddd4b/entregas/arroyosanchezdaniel/HotelLuces.java) (Reto 003)
 
 ```java
 if (probVentanaAbierta >= 0.7) {
@@ -77,7 +77,7 @@ if (probVentanaAbierta >= 0.7) {
 
 ## Pregunta 4
 
-Archivo: `HotelLuces.java` (Reto 003)
+Archivo: `HotelLuces.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/0940bca38a3852dfc71939340aea56c2d6eddd4b/entregas/arroyosanchezdaniel/HotelLuces.java) (Reto 003)
 
 ```java
 for (plantas = 7; plantas >= PLANTA_BAJA; plantas--) {
@@ -94,7 +94,7 @@ for (plantas = 7; plantas >= PLANTA_BAJA; plantas--) {
 
 ## Pregunta 5
 
-Archivo: `HotelLuces.java` (Reto 003)
+Archivo: `HotelLuces.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/0940bca38a3852dfc71939340aea56c2d6eddd4b/entregas/arroyosanchezdaniel/HotelLuces.java) (Reto 003)
 
 ```java
 System.out.println("Día: " + dia + ". Hora: " + horas);
@@ -106,7 +106,7 @@ System.out.println("Día: " + dia + ". Hora: " + horas);
 
 ## Pregunta 6
 
-Archivo: `edificio.java` (Reto 003, línea 4)
+Archivo: `edificio.java` — [PRs del alumno](https://github.com/mmasias/25-26-PRG1/pulls?q=is%3Apr+author%3ADaniArroyo07+is%3Aall) (Reto 003, línea 4)
 
 ```java
 final double PERSIANA_CERRADA = 0.6;
@@ -118,7 +118,7 @@ final double PERSIANA_CERRADA = 0.6;
 
 ## Pregunta 7
 
-Archivo: `edificio.java` (Reto 003, línea 10)
+Archivo: `edificio.java` — [PRs del alumno](https://github.com/mmasias/25-26-PRG1/pulls?q=is%3Apr+author%3ADaniArroyo07+is%3Aall) (Reto 003, línea 10)
 
 ```java
 final String separador = "[    ]";
@@ -130,7 +130,7 @@ final String separador = "[    ]";
 
 ## Pregunta 8
 
-Archivo: `edificio.java` (Reto 003, línea 1)
+Archivo: `edificio.java` — [PRs del alumno](https://github.com/mmasias/25-26-PRG1/pulls?q=is%3Apr+author%3ADaniArroyo07+is%3Aall) (Reto 003, línea 1)
 
 ```java
 public class edificio {
@@ -142,7 +142,7 @@ public class edificio {
 
 ## Pregunta 9
 
-Archivo: `edificio.java` (Reto 003, líneas 15-16)
+Archivo: `edificio.java` — [PRs del alumno](https://github.com/mmasias/25-26-PRG1/pulls?q=is%3Apr+author%3ADaniArroyo07+is%3Aall) (Reto 003, líneas 15-16)
 
 ```java
 for (int fila = 1; fila <= 7; fila++) {
@@ -155,7 +155,7 @@ for (int fila = 1; fila <= 7; fila++) {
 
 ## Pregunta 10
 
-Archivo: `edificio.java` (Reto 003, línea 19)
+Archivo: `edificio.java` — [PRs del alumno](https://github.com/mmasias/25-26-PRG1/pulls?q=is%3Apr+author%3ADaniArroyo07+is%3Aall) (Reto 003, línea 19)
 
 ```java
 System.out.print(!abierta ? VENTANA_CERRADA: encendida ? VENTANA_CON_LUZ_ENCENDIDA : VENTANA_CON_LUZ_APAGADA);
@@ -170,4 +170,3 @@ System.out.print(!abierta ? VENTANA_CERRADA: encendida ? VENTANA_CON_LUZ_ENCENDI
 - Identificación correcta del error: 40%
 - Explicación del porqué es un error: 30%
 - Propuesta de corrección válida: 30%
-

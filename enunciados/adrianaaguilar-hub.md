@@ -22,7 +22,7 @@ Nota: Responde 5 de las 5 preguntas (elige libremente).
 
 ## Pregunta 1
 
-Archivo: `HeroeVsVampiroCompleto.java` (Reto 002)
+Archivo: `HeroeVsVampiroCompleto.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/cea77e114d2f9b9ba0f1a05dc17b598856bbc666/entregas/aguilarAdriana/retos/Reto002/HeroeVsVampiroCompleto.java) (Reto 002)
 
 ```java
 if (ataqueElegidoCaballero == 1) {
@@ -43,7 +43,7 @@ if (ataqueElegidoCaballero == 3) { /* ... */ }
 
 ## Pregunta 2
 
-Archivo: `HeroeVsVampiroCompleto.java` (Reto 002)
+Archivo: `HeroeVsVampiroCompleto.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/cea77e114d2f9b9ba0f1a05dc17b598856bbc666/entregas/aguilarAdriana/retos/Reto002/HeroeVsVampiroCompleto.java) (Reto 002)
 
 ```java
 if (vidaVampiro > 0) {
@@ -60,7 +60,7 @@ if (vidaVampiro > 0) {
 
 ## Pregunta 3
 
-Archivo: `UnGuerrero.java` (Reto 002)
+Archivo: `UnGuerrero.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/cea77e114d2f9b9ba0f1a05dc17b598856bbc666/entregas/aguilarAdriana/retos/Reto002/UnGuerrero.java) (Reto 002)
 
 ```java
 int dañoGuerrero = 2;
@@ -73,7 +73,7 @@ System.out.println("¡El guerrero golpea!" + dañoGuerrero + " HP");
 
 ## Pregunta 4
 
-Archivo: `Edificio.java` (Reto 003)
+Archivo: `Edificio.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/2efe7a9bd6bf4b36835e954ae820ea7084a6f295/entregas/aguilarAdriana/retos/Reto003/Edificio.java) (Reto 003)
 
 ```java
 for (int hora = 0; hora <= 24; hora++) {
@@ -87,7 +87,7 @@ for (int hora = 0; hora <= 24; hora++) {
 
 ## Pregunta 5
 
-Archivo: `Edificio.java` (Reto 003)
+Archivo: `Edificio.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/2efe7a9bd6bf4b36835e954ae820ea7084a6f295/entregas/aguilarAdriana/retos/Reto003/Edificio.java) (Reto 003)
 
 ```java
 System.out.print(":" + (abierto ? (encendido ? "[*]" : "[º]") : "[ ]") + ":");

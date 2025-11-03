@@ -22,7 +22,7 @@ Nota: Responde 5 de las 9 preguntas (elige libremente).
 
 ## Pregunta 1
 
-Archivo: `RetoEdificioBase.java` (Reto 003)
+Archivo: `RetoEdificioBase.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/9b3bf8d7c1f80b5b9fa735fa35d5cfa5abe171cb/entregas/Reto-003/RetoEdificioBase.java) (Reto 003)
 
 ```java
 for (int dia = 1; dia <= 7; dia++) {
@@ -40,7 +40,7 @@ for (int dia = 1; dia <= 7; dia++) {
 
 ## Pregunta 2
 
-Archivo: `RetoEdificioBase.java` (Reto 003)
+Archivo: `RetoEdificioBase.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/9b3bf8d7c1f80b5b9fa735fa35d5cfa5abe171cb/entregas/Reto-003/RetoEdificioBase.java) (Reto 003)
 
 ```java
 double probPersianaAbierta = Math.random();
@@ -55,7 +55,7 @@ boolean luzEncendida = probLuzEncendida < 0.6;
 
 ## Pregunta 3
 
-Archivo: `RetoEdificioBase.java` (Reto 003)
+Archivo: `RetoEdificioBase.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/9b3bf8d7c1f80b5b9fa735fa35d5cfa5abe171cb/entregas/Reto-003/RetoEdificioBase.java) (Reto 003)
 
 ```java
 if (persianaAbierta) {
@@ -75,7 +75,7 @@ if (persianaAbierta) {
 
 ## Pregunta 4
 
-Archivo: `RetoEdificioExtendido.java` (Reto 003)
+Archivo: `RetoEdificioExtendido.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/9b3bf8d7c1f80b5b9fa735fa35d5cfa5abe171cb/entregas/Reto-003/RetoEdificioExtendido.java) (Reto 003)
 
 ```java
 int consumoSemanal = 0;
@@ -98,7 +98,7 @@ for (int dia = 1; dia <= DIAS_SEMANA; dia++) {
 
 ## Pregunta 5
 
-Archivo: `RetoEdificioExtendido.java` (Reto 003)
+Archivo: `RetoEdificioExtendido.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/9b3bf8d7c1f80b5b9fa735fa35d5cfa5abe171cb/entregas/Reto-003/RetoEdificioExtendido.java) (Reto 003)
 
 ```java
 for (int dia = 1; dia <= DIAS_SEMANA; dia++) {
@@ -113,7 +113,7 @@ for (int dia = 1; dia <= DIAS_SEMANA; dia++) {
 
 ## Pregunta 6
 
-Archivo: `RetoEdificioExtendido.java` (Reto 003)
+Archivo: `RetoEdificioExtendido.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/9b3bf8d7c1f80b5b9fa735fa35d5cfa5abe171cb/entregas/Reto-003/RetoEdificioExtendido.java) (Reto 003)
 
 ```java
 for (int dia = 1; dia <= DIAS_SEMANA; dia++) {
@@ -128,7 +128,7 @@ for (int dia = 1; dia <= DIAS_SEMANA; dia++) {
 
 ## Pregunta 7
 
-Archivo: `RetoEdificioBase.java` (Reto 003)
+Archivo: `RetoEdificioBase.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/9b3bf8d7c1f80b5b9fa735fa35d5cfa5abe171cb/entregas/Reto-003/RetoEdificioBase.java) (Reto 003)
 
 ```java
 static String generarVentana() {
@@ -145,7 +145,7 @@ static String generarVentana() {
 
 ## Pregunta 8
 
-Archivo: `RetoEdificioExtendido.java` (Reto 003)
+Archivo: `RetoEdificioExtendido.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/9b3bf8d7c1f80b5b9fa735fa35d5cfa5abe171cb/entregas/Reto-003/RetoEdificioExtendido.java) (Reto 003)
 
 ```java
 if (luzEncendida) {
@@ -170,7 +170,7 @@ if (persianaAbierta) {
 
 ## Pregunta 9
 
-Archivo: `RetoEdificioExtendido.java` (Reto 003)
+Archivo: `RetoEdificioExtendido.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/9b3bf8d7c1f80b5b9fa735fa35d5cfa5abe171cb/entregas/Reto-003/RetoEdificioExtendido.java) (Reto 003)
 
 ```java
 if (hab < habitaciones) System.out.print(":");
@@ -185,4 +185,3 @@ if (hab < habitaciones) System.out.print(":");
 - Identificación correcta del error: 40%
 - Explicación del porqué es un error: 30%
 - Propuesta de corrección válida: 30%
-

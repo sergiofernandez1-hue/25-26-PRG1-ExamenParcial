@@ -22,7 +22,7 @@ Nota: Responde 5 de las 10 preguntas (elige libremente).
 
 ## Pregunta 1
 
-Archivo: `Hotel.java` (Reto 003)
+Archivo: `Hotel.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/123ede67dbc64212199fb561a9e028c8efc4d657/entregas/gomezmiguel/src/Hotel.java) (Reto 003)
 
 ```java
 for (int hora = 0; hora < 24; hora++) {
@@ -39,7 +39,7 @@ for (int hora = 0; hora < 24; hora++) {
 
 ## Pregunta 2
 
-Archivo: `Hotel.java` (Reto 003)
+Archivo: `Hotel.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/123ede67dbc64212199fb561a9e028c8efc4d657/entregas/gomezmiguel/src/Hotel.java) (Reto 003)
 
 ```java
 for (int planta = 7; planta >= 1; planta--) {
@@ -59,7 +59,7 @@ for (int planta = 7; planta >= 1; planta--) {
 
 ## Pregunta 3
 
-Archivo: `Hotel.java` (Reto 003)
+Archivo: `Hotel.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/123ede67dbc64212199fb561a9e028c8efc4d657/entregas/gomezmiguel/src/Hotel.java) (Reto 003)
 
 ```java
 if (mantenimientoDia && planta == plantaMantenimiento) {
@@ -86,7 +86,7 @@ if (mantenimientoDia && planta == plantaMantenimiento) {
 
 ## Pregunta 4
 
-Archivo: `Hotel.java` (Reto 003)
+Archivo: `Hotel.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/123ede67dbc64212199fb561a9e028c8efc4d657/entregas/gomezmiguel/src/Hotel.java) (Reto 003)
 
 ```java
 StringBuilder consumosStr = new StringBuilder("CONSUMOS:");
@@ -103,7 +103,7 @@ System.out.println(consumosStr.toString());
 
 ## Pregunta 5
 
-Archivo: `Hotel.java` (Reto 003)
+Archivo: `Hotel.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/123ede67dbc64212199fb561a9e028c8efc4d657/entregas/gomezmiguel/src/Hotel.java) (Reto 003)
 
 ```java
 System.out.println("Media de consumo semanal: " + (totalConsumoSemanal / 7));
@@ -115,7 +115,7 @@ System.out.println("Media de consumo semanal: " + (totalConsumoSemanal / 7));
 
 ## Pregunta 6
 
-Archivo: `Vampiros.java` (Reto 002)
+Archivo: `Vampiros.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/b0a8a82c5b897d0c4ff518e6e9163cbef9dff122/entregas/gomezmiguel/src/Vampiros.java) (Reto 002)
 
 ```java
 import java.util.Scanner
@@ -130,7 +130,7 @@ public class Vampiros {
 
 ## Pregunta 7
 
-Archivo: `Vampiros.java` (Reto 002)
+Archivo: `Vampiros.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/b0a8a82c5b897d0c4ff518e6e9163cbef9dff122/entregas/gomezmiguel/src/Vampiros.java) (Reto 002)
 
 ```java
 private static int procesarAtaqueHeroe(int opcion, int vidaVampiro) {
@@ -155,7 +155,7 @@ private static int procesarAtaqueHeroe(int opcion, int vidaVampiro) {
 
 ## Pregunta 8
 
-Archivo: `Vampiros.java` (Reto 002)
+Archivo: `Vampiros.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/b0a8a82c5b897d0c4ff518e6e9163cbef9dff122/entregas/gomezmiguel/src/Vampiros.java) (Reto 002)
 
 ```java
 private static void procesarAtaqueVampiro(int vidaHeroe) {
@@ -175,7 +175,7 @@ private static void procesarAtaqueVampiro(int vidaHeroe) {
 
 ## Pregunta 9
 
-Archivo: `Hotel.java` (Reto 003)
+Archivo: `Hotel.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/123ede67dbc64212199fb561a9e028c8efc4d657/entregas/gomezmiguel/src/Hotel.java) (Reto 003)
 
 ```java
 for (int habitacion = 1; habitacion <= 7; habitacion++) {
@@ -208,7 +208,7 @@ for (int habitacion = 1; habitacion <= 7; habitacion++) {
 
 ## Pregunta 10
 
-Archivo: `ConversorSegundos` (Reto 001)
+Archivo: `ConversorSegundos` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/debe66a1a5b8e1b08d18a29c008d41958c1c4723/entregas/gomezmiguel/ConversorSegundos) (Reto 001)
 
 ```java
 if (dias > 0) {
@@ -234,4 +234,3 @@ if (minutos > 0) {
 - Identificación correcta del error: 40%
 - Explicación del porqué es un error: 30%
 - Propuesta de corrección válida: 30%
-

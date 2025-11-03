@@ -22,7 +22,7 @@ Nota: Responde 5 de las 10 preguntas (elige libremente).
 
 ## Pregunta 1
 
-Archivo: `Devolver cambio.java` (Reto 001)
+Archivo: `Devolver cambio.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/1b566b8871e0ebc1e086b5d6513b1f24c7674e57/entregas/rodrigo.guti%C3%A9rrez/Devolver%20cambio.java) (Reto 001)
 
 ```java
 // Archivo con espacios en el nombre y ruta con acentos
@@ -34,7 +34,7 @@ Archivo: `Devolver cambio.java` (Reto 001)
 
 ## Pregunta 2
 
-Archivo: `calculadora de precio.java` (Reto 001)
+Archivo: `calculadora de precio.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/1b566b8871e0ebc1e086b5d6513b1f24c7674e57/entregas/rodrigo.guti%C3%A9rrez/calculadora%20de%20precio.java) (Reto 001)
 
 ```java
 // Archivo con espacios en el nombre y clase relacionada
@@ -46,7 +46,7 @@ Archivo: `calculadora de precio.java` (Reto 001)
 
 ## Pregunta 3
 
-Archivo: `conversor de segundos.java` (Reto 001)
+Archivo: `conversor de segundos.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/1b566b8871e0ebc1e086b5d6513b1f24c7674e57/entregas/rodrigo.guti%C3%A9rrez/conversor%20de%20segundos.java) (Reto 001)
 
 ```java
 // Archivo con espacios; estructura esperable: lectura, descomposición, salida
@@ -58,7 +58,7 @@ Archivo: `conversor de segundos.java` (Reto 001)
 
 ## Pregunta 4
 
-Archivo: `DevolucionCambio.java` (si procede)
+Archivo: `DevolucionCambio.java` — [PRs del alumno](https://github.com/mmasias/25-26-PRG1/pulls?q=is%3Apr+author%3Arodrigorgo1909-web+is%3Aall) (si procede)
 
 ```java
 // Validaciones de entrada y uso de constantes para denominaciones
@@ -70,7 +70,7 @@ Archivo: `DevolucionCambio.java` (si procede)
 
 ## Pregunta 5
 
-Archivo: `CalculadoraDePrecio.java` (si procede)
+Archivo: `CalculadoraDePrecio.java` — [PRs del alumno](https://github.com/mmasias/25-26-PRG1/pulls?q=is%3Apr+author%3Arodrigorgo1909-web+is%3Aall) (si procede)
 
 ```java
 // Orden de aplicación descuento/IVA y tipos adecuados
@@ -82,7 +82,7 @@ Archivo: `CalculadoraDePrecio.java` (si procede)
 
 ## Pregunta 6
 
-Archivo: `Devolver cambio.java` (Reto 001)
+Archivo: `Devolver cambio.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/1b566b8871e0ebc1e086b5d6513b1f24c7674e57/entregas/rodrigo.guti%C3%A9rrez/Devolver%20cambio.java) (Reto 001)
 
 ```java
 final int Billete_100= 100;
@@ -100,7 +100,7 @@ final int Moneda_1= 1;
 
 ## Pregunta 7
 
-Archivo: `Devolver cambio.java` (Reto 001)
+Archivo: `Devolver cambio.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/1b566b8871e0ebc1e086b5d6513b1f24c7674e57/entregas/rodrigo.guti%C3%A9rrez/Devolver%20cambio.java) (Reto 001)
 
 ```java
 int DineroAPagar = scanner.nextInt();
@@ -116,7 +116,7 @@ int Cambio = DineroUtilizado - DineroAPagar;
 
 ## Pregunta 8
 
-Archivo: `calculadora de precio.java` (Reto 001)
+Archivo: `calculadora de precio.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/1b566b8871e0ebc1e086b5d6513b1f24c7674e57/entregas/rodrigo.guti%C3%A9rrez/calculadora%20de%20precio.java) (Reto 001)
 
 ```java
 double precioConIva = precioEnEuros * (1 + tipoDeIva / 100.0);
@@ -131,7 +131,7 @@ double precioFinal = precioTotalAntesDescuento - importeRebaja;
 
 ## Pregunta 9
 
-Archivo: `conversor de segundos.java` (Reto 001)
+Archivo: `conversor de segundos.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/1b566b8871e0ebc1e086b5d6513b1f24c7674e57/entregas/rodrigo.guti%C3%A9rrez/conversor%20de%20segundos.java) (Reto 001)
 
 ```java
 int dias = segundos / DIAS_EN_SEGUNDOS;
@@ -150,7 +150,7 @@ segundos = segundos % MINUTOS_EN_SEGUNDOS;
 
 ## Pregunta 10
 
-Archivo: `conversor de segundos.java` (Reto 001)
+Archivo: `conversor de segundos.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/1b566b8871e0ebc1e086b5d6513b1f24c7674e57/entregas/rodrigo.guti%C3%A9rrez/conversor%20de%20segundos.java) (Reto 001)
 
 ```java
 System.out.println();
@@ -170,4 +170,3 @@ System.out.println("Segundos: " + segundos);
 - Identificación correcta del error: 40%
 - Explicación del porqué es un error: 30%
 - Propuesta de corrección válida: 30%
-

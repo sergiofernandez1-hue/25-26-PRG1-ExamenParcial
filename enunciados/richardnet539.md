@@ -22,7 +22,7 @@ Nota: Responde 5 de las 10 preguntas (elige libremente).
 
 ## Pregunta 1
 
-Archivo: `edificio.java` (Reto 003)
+Archivo: `edificio.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/c88cfc08695130210c5b467312e1bc0037de160a/Entrega/reto-003/edificio.java) (Reto 003)
 
 ```java
 public class edificio {
@@ -38,7 +38,7 @@ public class edificio {
 
 ## Pregunta 2
 
-Archivo: `edificio.java` (Reto 003)
+Archivo: `edificio.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/c88cfc08695130210c5b467312e1bc0037de160a/Entrega/reto-003/edificio.java) (Reto 003)
 
 ```java
 final double PERSIANA_ABIERTA = 0.7;
@@ -53,7 +53,7 @@ encendida = Math.random() < PERSIANA_CERRADA;
 
 ## Pregunta 3
 
-Archivo: `edificio.java` (Reto 003)
+Archivo: `edificio.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/c88cfc08695130210c5b467312e1bc0037de160a/Entrega/reto-003/edificio.java) (Reto 003)
 
 ```java
 for (int hora = 0; hora <= 24; hora++) {
@@ -67,7 +67,7 @@ for (int hora = 0; hora <= 24; hora++) {
 
 ## Pregunta 4
 
-Archivo: `edificio.java` (Reto 003)
+Archivo: `edificio.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/c88cfc08695130210c5b467312e1bc0037de160a/Entrega/reto-003/edificio.java) (Reto 003)
 
 ```java
 System.out.print(!abierta ? VENTANA_CERRADA
@@ -83,7 +83,7 @@ if (columna == 3) {
 
 ## Pregunta 5
 
-Archivo: `edificio.java` (Reto 003)
+Archivo: `edificio.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/c88cfc08695130210c5b467312e1bc0037de160a/Entrega/reto-003/edificio.java) (Reto 003)
 
 ```java
 final String separador = "[    ]";
@@ -99,7 +99,7 @@ for (int fila = 1; fila <= 7; fila++) {
 
 ## Pregunta 6
 
-Archivo: `CalculadoraDePrecioFinal.java` (Reto 001)
+Archivo: `CalculadoraDePrecioFinal.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/888e795575faef5f0373d8bca3d23631398b9964/entrega/Ricardo%20Monteiro-reto001/CalculadoraDePrecioFinal.java) (Reto 001)
 
 ```java
 double iva = CIEN_PORCIENTO / ivaIntroducido;
@@ -113,7 +113,7 @@ System.out.println(iva);
 
 ## Pregunta 7
 
-Archivo: `CalculadoraDePrecioFinal.java` (Reto 001)
+Archivo: `CalculadoraDePrecioFinal.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/888e795575faef5f0373d8bca3d23631398b9964/entrega/Ricardo%20Monteiro-reto001/CalculadoraDePrecioFinal.java) (Reto 001)
 
 ```java
 int descuento = cantidadDeUnidades >= CANTIDAD_DE_CIEN ? TIPO_DE_DESCUENTO_DE_QUINCE :
@@ -127,7 +127,7 @@ int descuento = cantidadDeUnidades >= CANTIDAD_DE_CIEN ? TIPO_DE_DESCUENTO_DE_QU
 
 ## Pregunta 8
 
-Archivo: `ConversorDeDuracion.java` (Reto 001)
+Archivo: `ConversorDeDuracion.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/888e795575faef5f0373d8bca3d23631398b9964/entrega/Ricardo%20Monteiro-reto001/ConversorDeDuracion.java) (Reto 001)
 
 ```java
 int dias = totalSegundos / DIAS_EN_SEGUNDOS;
@@ -142,7 +142,7 @@ int segundos = totalSegundos % MINUTOS_EN_SEGUNDOS;
 
 ## Pregunta 9
 
-Archivo: `edificio.java` (Reto 003)
+Archivo: `edificio.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/c88cfc08695130210c5b467312e1bc0037de160a/Entrega/reto-003/edificio.java) (Reto 003)
 
 ```java
 for (int columna = 1; columna <= 6; columna++) {
@@ -161,7 +161,7 @@ for (int columna = 1; columna <= 6; columna++) {
 
 ## Pregunta 10
 
-Archivo: `CalculadoraDePrecioFinal.java` (Reto 001)
+Archivo: `CalculadoraDePrecioFinal.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/888e795575faef5f0373d8bca3d23631398b9964/entrega/Ricardo%20Monteiro-reto001/CalculadoraDePrecioFinal.java) (Reto 001)
 
 ```java
 double total = precioUnitarioBase + (precioUnitarioBase * iva );
@@ -182,4 +182,3 @@ System.out.println("Precio unitario final: " + total + "$");
 - Identificación correcta del error: 40%
 - Explicación del porqué es un error: 30%
 - Propuesta de corrección válida: 30%
-

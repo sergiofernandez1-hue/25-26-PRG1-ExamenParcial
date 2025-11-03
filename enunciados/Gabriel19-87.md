@@ -22,7 +22,7 @@ Nota: Responde 5 de las 9 preguntas (elige libremente).
 
 ## Pregunta 1
 
-Archivo: `reto3.java` (Reto 003)
+Archivo: `reto3.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/3963b051c54e062cf2dc24c54d46a17c1302bd1d/entregas/herreraGabriel/reto3.java) (Reto 003)
 
 ```java
 piso += persianasAbiertas[planta][habitacion] ? LUZ_ENCENDIDA
@@ -35,7 +35,7 @@ piso += persianasAbiertas[planta][habitacion] ? LUZ_ENCENDIDA
 
 ## Pregunta 2
 
-Archivo: `reto3.java` (Reto 003)
+Archivo: `reto3.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/3963b051c54e062cf2dc24c54d46a17c1302bd1d/entregas/herreraGabriel/reto3.java) (Reto 003)
 
 ```java
 for (int planta = NUMERO_DE_PLANTAS - 1; planta >= 0; planta--) {
@@ -56,7 +56,7 @@ for (int planta = NUMERO_DE_PLANTAS - 1; planta >= 0; planta--) {
 
 ## Pregunta 3
 
-Archivo: `AdivinaNumero.java` (Ejercicios)
+Archivo: `AdivinaNumero.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/3963b051c54e062cf2dc24c54d46a17c1302bd1d/entregas/herreraGabriel/ejercicios/AdivinaNumero.java) (Ejercicios)
 
 ```java
 int numeroSecreto = random.nextInt(NUMERO_MAXIMO) + NUMERO_MINIMO;
@@ -72,7 +72,7 @@ if (numeroUsuario < NUMERO_MINIMO || numeroUsuario > NUMERO_MAXIMO) {
 
 ## Pregunta 4
 
-Archivo: `PozoCaracol.java` (Ejercicios)
+Archivo: `PozoCaracol.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/3963b051c54e062cf2dc24c54d46a17c1302bd1d/entregas/herreraGabriel/ejercicios/PozoCaracol.java) (Ejercicios)
 
 ```java
 for (int i = 0; i <= 20; i++) {
@@ -90,7 +90,7 @@ for (int i = 0; i <= 20; i++) {
 
 ## Pregunta 5
 
-Archivo: `ClasificacionConductor.java` (Ejercicios)
+Archivo: `ClasificacionConductor.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/3963b051c54e062cf2dc24c54d46a17c1302bd1d/entregas/herreraGabriel/ejercicios/ClasificacionConductor.java) (Ejercicios)
 
 ```java
 System.out.println("¿Tiene licencia de conducir? (true/false):");
@@ -105,7 +105,7 @@ boolean tieneLicencia = sc.nextBoolean();
 
 ## Pregunta 6
 
-Archivo: `PiedraPapelTijera.java` (Ejercicios)
+Archivo: `PiedraPapelTijera.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/3963b051c54e062cf2dc24c54d46a17c1302bd1d/entregas/herreraGabriel/ejercicios/PiedraPapelTijera.java) (Ejercicios)
 
 ```java
 public static String determinarGanador(String jugadaUsuario, String jugadaPrograma) {
@@ -122,7 +122,7 @@ public static String determinarGanador(String jugadaUsuario, String jugadaProgra
 
 ## Pregunta 7
 
-Archivo: `AdivinaNumero.java` (Ejercicios)
+Archivo: `AdivinaNumero.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/3963b051c54e062cf2dc24c54d46a17c1302bd1d/entregas/herreraGabriel/ejercicios/AdivinaNumero.java) (Ejercicios)
 
 ```java
 System.out.println("¡¡¡FELICIDADES!!! 🎉");
@@ -134,7 +134,7 @@ System.out.println("¡¡¡FELICIDADES!!! 🎉");
 
 ## Pregunta 8
 
-Archivo: `AdivinaNumero.java` (Ejercicios)
+Archivo: `AdivinaNumero.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/3963b051c54e062cf2dc24c54d46a17c1302bd1d/entregas/herreraGabriel/ejercicios/AdivinaNumero.java) (Ejercicios)
 
 ```java
 System.out.println(" Se acabaron los intentos!");
@@ -146,7 +146,7 @@ System.out.println(" Se acabaron los intentos!");
 
 ## Pregunta 9
 
-Archivo: `ClasificacionConductor.java` (Ejercicios)
+Archivo: `ClasificacionConductor.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/3963b051c54e062cf2dc24c54d46a17c1302bd1d/entregas/herreraGabriel/ejercicios/ClasificacionConductor.java) (Ejercicios)
 
 ```java
 System.out.println("Ingrese su edad:");
@@ -168,4 +168,3 @@ String puedeConducirTxt = "Puede conducir.";
 - Identificación correcta del error: 40%
 - Explicación del porqué es un error: 30%
 - Propuesta de corrección válida: 30%
-

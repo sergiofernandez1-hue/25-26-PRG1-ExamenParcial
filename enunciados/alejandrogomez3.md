@@ -22,7 +22,7 @@ Nota: Responde 5 de las 10 preguntas (elige libremente).
 
 ## Pregunta 1
 
-Archivo: `Reto003EdificioFinal.java` (Reto 003)
+Archivo: `Reto003EdificioFinal.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/12c10998a8134110cc74b49576117ea2cc5846ba/entregas/masiasManuel/src/Reto003EdificioFinal.java) (Reto 003)
 
 ```java
 if (d == 1) fila.append("[9]:"); // Ascensor central
@@ -34,7 +34,7 @@ if (d == 1) fila.append("[9]:"); // Ascensor central
 
 ## Pregunta 2
 
-Archivo: `Reto003EdificioFinal.java` (Reto 003)
+Archivo: `Reto003EdificioFinal.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/12c10998a8134110cc74b49576117ea2cc5846ba/entregas/masiasManuel/src/Reto003EdificioFinal.java) (Reto 003)
 
 ```java
 System.out.println(" ==================================\n");
@@ -47,7 +47,7 @@ System.out.printf("Dia %d - %02d:00h Consumo hora: %d\n\n", dia + 1, hora, consu
 
 ## Pregunta 3
 
-Archivo: `ConversorDuracion.java` (Ejercicios)
+Archivo: `ConversorDuracion.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/ae507fa3c77a26023f3e1c4a9f7a0aa13c563d32/entregas/ConversorDuracion.java) (Ejercicios)
 
 ```java
 int dias = segundosTotales / 86400;
@@ -64,7 +64,7 @@ int segundos = segundosTotales % 60;
 
 ## Pregunta 4
 
-Archivo: `DevolverCambio.java` (Ejercicios)
+Archivo: `DevolverCambio.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/ae507fa3c77a26023f3e1c4a9f7a0aa13c563d32/entregas/DevolverCambio.java) (Ejercicios)
 
 ```java
 if (entregado < importe) {
@@ -82,7 +82,7 @@ Scanner scanner = new Scanner(System.in);
 
 ## Pregunta 5
 
-Archivo: `UnGuerrero.java` (Ejercicios)
+Archivo: `UnGuerrero.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/ae507fa3c77a26023f3e1c4a9f7a0aa13c563d32/entregas/UnGuerrero.java) (Ejercicios)
 
 ```java
 int dañoGuerrero = 2;
@@ -96,7 +96,7 @@ int dañoVampiro = 4;
 
 ## Pregunta 6
 
-Archivo: `UnGuerrero.java` (Reto 002, líneas 3-4)
+Archivo: `UnGuerrero.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/ae507fa3c77a26023f3e1c4a9f7a0aa13c563d32/entregas/UnGuerrero.java) (Reto 002, líneas 3-4)
 
 ```java
 int vidaGuerrero = 20;
@@ -109,7 +109,7 @@ int dañoGuerrero = 2;
 
 ## Pregunta 7
 
-Archivo: `UnGuerrero.java` (Reto 002, línea 16)
+Archivo: `UnGuerrero.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/ae507fa3c77a26023f3e1c4a9f7a0aa13c563d32/entregas/UnGuerrero.java) (Reto 002, línea 16)
 
 ```java
 final double PROBABILIDAD_DE_ATAQUE = 0.5;
@@ -121,7 +121,7 @@ final double PROBABILIDAD_DE_ATAQUE = 0.5;
 
 ## Pregunta 8
 
-Archivo: `UnGuerrero.java` (Reto 002, línea 19)
+Archivo: `UnGuerrero.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/ae507fa3c77a26023f3e1c4a9f7a0aa13c563d32/entregas/UnGuerrero.java) (Reto 002, línea 19)
 
 ```java
 System.out.println("¡El guerrero golpea!" + dañoGuerrero + " HP");
@@ -133,7 +133,7 @@ System.out.println("¡El guerrero golpea!" + dañoGuerrero + " HP");
 
 ## Pregunta 9
 
-Archivo: `UnGuerrero2.java` (Reto 002, líneas 43-45)
+Archivo: `UnGuerrero2.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/ae507fa3c77a26023f3e1c4a9f7a0aa13c563d32/entregas/UnGuerrero2.java) (Reto 002, líneas 43-45)
 
 ```java
 } else {
@@ -147,7 +147,7 @@ Archivo: `UnGuerrero2.java` (Reto 002, líneas 43-45)
 
 ## Pregunta 10
 
-Archivo: `UnGuerrero2.java` (Reto 002, línea 79)
+Archivo: `UnGuerrero2.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/ae507fa3c77a26023f3e1c4a9f7a0aa13c563d32/entregas/UnGuerrero2.java) (Reto 002, línea 79)
 
 ```java
 probabilidadVampiro = 0.30;

@@ -22,7 +22,7 @@ Nota: Responde 5 de las 7 preguntas (elige libremente).
 
 ## Pregunta 1
 
-Archivo: `CalcularPrecioFinal.java` (Reto 001)
+Archivo: `CalcularPrecioFinal.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/d83296a923aa5942aec2d22be8940360c1919d51/entregas/MoralesLucas/reto-001/CalcularPrecioFinal.java) (Reto 001)
 
 ```java
 double descuento = 0;
@@ -37,7 +37,7 @@ if (cantidad >= 100) descuento = 15;
 
 ## Pregunta 2
 
-Archivo: `ConvertirDuracion.java` (Reto 001)
+Archivo: `ConvertirDuracion.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/d83296a923aa5942aec2d22be8940360c1919d51/entregas/MoralesLucas/reto-001/ConvertirDuracion.java) (Reto 001)
 
 ```java
 int dias = s / 86400; s %= 86400;
@@ -52,7 +52,7 @@ int segundos = s % 60;
 
 ## Pregunta 3
 
-Archivo: `DevolverCambio.java` (Reto 001)
+Archivo: `DevolverCambio.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/d83296a923aa5942aec2d22be8940360c1919d51/entregas/MoralesLucas/reto-001/DevolverCambio.java) (Reto 001)
 
 ```java
 int cambio = paga - pagar;
@@ -67,7 +67,7 @@ cambio = cambio % 1;
 
 ## Pregunta 4
 
-Archivo: `BatallaHeroeVampirobase.java` (Reto 002)
+Archivo: `BatallaHeroeVampirobase.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/d83296a923aa5942aec2d22be8940360c1919d51/entregas/MoralesLucas/reto-002/BatallaHeroeVampirobase.java) (Reto 002)
 
 ```java
 while (hpGuerrero > 0 && hpVampiro > 0) {
@@ -83,7 +83,7 @@ while (hpGuerrero > 0 && hpVampiro > 0) {
 
 ## Pregunta 5
 
-Archivo: `Edificio.java` (Reto 003)
+Archivo: `Edificio.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/d83296a923aa5942aec2d22be8940360c1919d51/entregas/MoralesLucas/reto-003/Edificio.java) (Reto 003)
 
 ```java
 System.err.println(TECHO_ESPACIO_ABAJO);
@@ -99,7 +99,7 @@ for(int hora=0; hora<=24; hora++) {
 
 ## Pregunta 6
 
-Archivo: `BatallaHeroeVampiro.java` (Reto 002)
+Archivo: `BatallaHeroeVampiro.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/d83296a923aa5942aec2d22be8940360c1919d51/entregas/MoralesLucas/reto-002/BatallaHeroeVampiro.java) (Reto 002)
 
 ```java
 if (opcion == 1) {
@@ -122,7 +122,7 @@ if (opcion == 1) {
 
 ## Pregunta 7
 
-Archivo: `BatallaHeroeVampirobase.java` (Reto 002)
+Archivo: `BatallaHeroeVampirobase.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/d83296a923aa5942aec2d22be8940360c1919d51/entregas/MoralesLucas/reto-002/BatallaHeroeVampirobase.java) (Reto 002)
 
 ```java
 if (random.nextDouble() < 0.5) {
@@ -142,4 +142,3 @@ if (random.nextDouble() < 0.5) {
 - Identificación correcta del error: 40%
 - Explicación del porqué es un error: 30%
 - Propuesta de corrección válida: 30%
-

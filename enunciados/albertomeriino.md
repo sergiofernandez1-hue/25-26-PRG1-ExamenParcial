@@ -22,7 +22,7 @@ Nota: Responde 5 de las 8 preguntas (elige libremente).
 
 ## Pregunta 1
 
-Archivo: `MinijuegoPelea.java` (Reto 002)
+Archivo: `MinijuegoPelea.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/3eaf8d2a0d715688103d9cb819d96a8a995dae38/entregas/masiasManuel/merinoAlberto/Reto002/MinijuegoPelea.java) (Reto 002)
 
 ```java
 double probabilidadGolpe = 0;
@@ -38,7 +38,7 @@ do {
 
 ## Pregunta 2
 
-Archivo: `MinijuegoPelea.java` (Reto 002)
+Archivo: `MinijuegoPelea.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/3eaf8d2a0d715688103d9cb819d96a8a995dae38/entregas/masiasManuel/merinoAlberto/Reto002/MinijuegoPelea.java) (Reto 002)
 
 ```java
 final int DAÑO_ESPADA = 2;
@@ -52,7 +52,7 @@ String Ganador = vidaGuerrero > 0 ? "El guerrero epico ha ganado la pelea." : "E
 
 ## Pregunta 3
 
-Archivo: `CalculadoraDeCambio.java` (Reto 001)
+Archivo: `CalculadoraDeCambio.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/3eaf8d2a0d715688103d9cb819d96a8a995dae38/entregas/masiasManuel/merinoAlberto/Reto001/CalculadoraDeCambio.java) (Reto 001)
 
 ```java
 int billetes200 = dineroDevuelto / 200;
@@ -70,7 +70,7 @@ int monedas1 = dineroDevuelto / 1;
 
 ## Pregunta 4
 
-Archivo: `CalculadoraDeCambio.java` (Reto 001)
+Archivo: `CalculadoraDeCambio.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/3eaf8d2a0d715688103d9cb819d96a8a995dae38/entregas/masiasManuel/merinoAlberto/Reto001/CalculadoraDeCambio.java) (Reto 001)
 
 ```java
 System.out.println("Cantidad de dinero a pagar: ");
@@ -86,7 +86,7 @@ int dineroDevuelto = dineroEntregado - dineroPorPagar;
 
 ## Pregunta 5
 
-Archivo: `CalculadoraDeCambio.java` (Reto 001)
+Archivo: `CalculadoraDeCambio.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/3eaf8d2a0d715688103d9cb819d96a8a995dae38/entregas/masiasManuel/merinoAlberto/Reto001/CalculadoraDeCambio.java) (Reto 001)
 
 ```java
 Scanner scanner = new Scanner(System.in);
@@ -99,7 +99,7 @@ Scanner scanner = new Scanner(System.in);
 
 ## Pregunta 6
 
-Archivo: `MinijuegoPelea.java` (Reto 002, líneas 4-6)
+Archivo: `MinijuegoPelea.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/3eaf8d2a0d715688103d9cb819d96a8a995dae38/entregas/masiasManuel/merinoAlberto/Reto002/MinijuegoPelea.java) (Reto 002, líneas 4-6)
 
 ```java
 final int DAÑO_ESPADA = 2;
@@ -113,7 +113,7 @@ final double PORCENTAJE_EXITO_GUERRERO = 0.5;
 
 ## Pregunta 7
 
-Archivo: `CalculadoraDeCambio.java` (Reto 001, líneas 35-36)
+Archivo: `CalculadoraDeCambio.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/3eaf8d2a0d715688103d9cb819d96a8a995dae38/entregas/masiasManuel/merinoAlberto/Reto001/CalculadoraDeCambio.java) (Reto 001, líneas 35-36)
 
 ```java
 int monedas1 = dineroDevuelto / 1;
@@ -126,7 +126,7 @@ dineroDevuelto = dineroDevuelto % 1;
 
 ## Pregunta 8
 
-Archivo: `MinijuegoPelea.java` (Reto 002, línea 13)
+Archivo: `MinijuegoPelea.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/3eaf8d2a0d715688103d9cb819d96a8a995dae38/entregas/masiasManuel/merinoAlberto/Reto002/MinijuegoPelea.java) (Reto 002, línea 13)
 
 ```java
 boolean algunMuerto = false;

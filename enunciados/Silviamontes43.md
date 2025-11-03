@@ -22,7 +22,7 @@ Nota: Responde 5 de las 10 preguntas (elige libremente).
 
 ## Pregunta 1
 
-Archivo: `WhacAMole.java` (Ejercicios)
+Archivo: `WhacAMole.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/a78736a18e8a9b7ebcfc0498eca5579d4acb4c3f/ejercicios/WhacAMole.java) (Ejercicios)
 
 ```java
 System.out.println ("Donde golpeas (entre 1 y " + NUMERO_CASILLAS + ")"
@@ -35,7 +35,7 @@ posicionGolpe =scanner.nextInt();
 
 ## Pregunta 2
 
-Archivo: `WhacAMole.java` (Ejercicios)
+Archivo: `WhacAMole.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/a78736a18e8a9b7ebcfc0498eca5579d4acb4c3f/ejercicios/WhacAMole.java) (Ejercicios)
 
 ```java
 final String AGUJERO="( )";
@@ -50,7 +50,7 @@ final String MONIGOTE_GOLPEADO= "[**]";
 
 ## Pregunta 3
 
-Archivo: `Batalla.java` (Reto 002)
+Archivo: `Batalla.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/a78736a18e8a9b7ebcfc0498eca5579d4acb4c3f/entregas/MontesSilvia/reto-002/Batalla.java) (Reto 002)
 
 ```java
 boolean algunMuerto =false;
@@ -64,7 +64,7 @@ boolean algunMuerto=false;
 
 ## Pregunta 4
 
-Archivo: `Batalla.java` (Reto 002)
+Archivo: `Batalla.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/a78736a18e8a9b7ebcfc0498eca5579d4acb4c3f/entregas/MontesSilvia/reto-002/Batalla.java) (Reto 002)
 
 ```java
 boolean vampiroVivo =vidaVampiro <=0;
@@ -82,7 +82,7 @@ algunMuerto=vidaGuerrero<=0 || vidaVampiro <=0 ;
 
 ## Pregunta 5
 
-Archivo: `Batalla.java` (Reto 002)
+Archivo: `Batalla.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/a78736a18e8a9b7ebcfc0498eca5579d4acb4c3f/entregas/MontesSilvia/reto-002/Batalla.java) (Reto 002)
 
 ```java
 } while (!algunMuerto);
@@ -96,7 +96,7 @@ System.out.println ("Ganó el " + elGanador);
 
 ## Pregunta 6
 
-Archivo: `CalculadoraDeCambio` (Reto 001)
+Archivo: `CalculadoraDeCambio` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/68b218b103ef7d3a85baab9af493dd77b3143014/entregas/Silvia.Montes/CalculadoraDeCambio) (Reto 001)
 
 ```java
 dineroPorDevolver=cdineroPorDevolver %100;
@@ -108,7 +108,7 @@ dineroPorDevolver=cdineroPorDevolver %100;
 
 ## Pregunta 7
 
-Archivo: `CalculadoraDeCambio` (Reto 001)
+Archivo: `CalculadoraDeCambio` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/68b218b103ef7d3a85baab9af493dd77b3143014/entregas/Silvia.Montes/CalculadoraDeCambio) (Reto 001)
 
 ```java
 String salida;
@@ -123,7 +123,7 @@ salida=salida+(billetes100>0? "y" +billetes100 +"billete(s) de 100": "");
 
 ## Pregunta 8
 
-Archivo: `CalculadoraPrecio` (Reto 001)
+Archivo: `CalculadoraPrecio` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/68b218b103ef7d3a85baab9af493dd77b3143014/entregas/Silvia.Montes/CalculadoraPrecio) (Reto 001)
 
 ```java
 import java.util.Scanner;
@@ -139,7 +139,7 @@ class CalculadoraPrecio{
 
 ## Pregunta 9
 
-Archivo: `ConversorDuracion` (Reto 001)
+Archivo: `ConversorDuracion` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/68b218b103ef7d3a85baab9af493dd77b3143014/entregas/Silvia.Montes/ConversorDuracion) (Reto 001)
 
 ```java
 System.out.println ("¿Cuántos segundos desea convertir?");
@@ -156,7 +156,7 @@ int segundos= (totalSegundos&60);
 
 ## Pregunta 10
 
-Archivo: `Batalla.java` (Reto 002)
+Archivo: `Batalla.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/a78736a18e8a9b7ebcfc0498eca5579d4acb4c3f/entregas/MontesSilvia/reto-002/Batalla.java) (Reto 002)
 
 ```java
 boolean algunMuerto =false;
@@ -182,4 +182,3 @@ int vidaVampiro = 60;
 - Identificación correcta del error: 40%
 - Explicación del porqué es un error: 30%
 - Propuesta de corrección válida: 30%
-

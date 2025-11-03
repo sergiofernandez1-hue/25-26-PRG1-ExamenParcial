@@ -22,7 +22,7 @@ Nota: Responde 5 de las 10 preguntas (elige libremente).
 
 ## Pregunta 1
 
-Archivo: `CalculadoraDePrecio.java` (Reto 001)
+Archivo: `CalculadoraDePrecio.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/b6839e92164766d6a4b5d2a8764e272be2c3b399/entregas/javierrodriguezrobles07-creator/CalculadoraDePrecio.java) (Reto 001)
 
 ```java
 double precioConIva = precioEnEuros * (1 + tipoDeIva / 100.0);
@@ -37,7 +37,7 @@ double precioFinal = precioTotalAntesDescuento - importeRebaja;
 
 ## Pregunta 2
 
-Archivo: `CoversorSegundos.java` (Reto 001)
+Archivo: `CoversorSegundos.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/b6839e92164766d6a4b5d2a8764e272be2c3b399/entregas/javierrodriguezrobles07-creator/CoversorSegundos.java) (Reto 001)
 
 ```java
 class ConversorSegundos {
@@ -51,7 +51,7 @@ class ConversorSegundos {
 
 ## Pregunta 3
 
-Archivo: `DevolucionCambio.java` (Reto 001)
+Archivo: `DevolucionCambio.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/b6839e92164766d6a4b5d2a8764e272be2c3b399/entregas/javierrodriguezrobles07-creator/DevolucionCambio.java) (Reto 001)
 
 ```java
 final int Billete_100= 100;
@@ -66,7 +66,7 @@ int Cambio = DineroUtilizado - DineroAPagar;
 
 ## Pregunta 4
 
-Archivo: `edificio.java` (Reto 003)
+Archivo: `edificio.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/b6839e92164766d6a4b5d2a8764e272be2c3b399/entregas/javierrodriguezrobles07-creator/edificio.java) (Reto 003)
 
 ```java
 class SimulacionHotel {
@@ -82,7 +82,7 @@ class SimulacionHotel {
 
 ## Pregunta 5
 
-Archivo: `edificio.java` (Reto 003)
+Archivo: `edificio.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/b6839e92164766d6a4b5d2a8764e272be2c3b399/entregas/javierrodriguezrobles07-creator/edificio.java) (Reto 003)
 
 ```java
 while (dia <= DIAS) {
@@ -102,7 +102,7 @@ System.out.println("Media semanal: " + (consumoTotalSemana / 7));
 
 ## Pregunta 6
 
-Archivo: `edificio.java` (Reto 003)
+Archivo: `edificio.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/b6839e92164766d6a4b5d2a8764e272be2c3b399/entregas/javierrodriguezrobles07-creator/edificio.java) (Reto 003)
 
 ```java
 int p = PLANTAS;
@@ -118,7 +118,7 @@ while (p >= 1) {
 
 ## Pregunta 7
 
-Archivo: `DevolucionCambio.java` (Reto 001)
+Archivo: `DevolucionCambio.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/b6839e92164766d6a4b5d2a8764e272be2c3b399/entregas/javierrodriguezrobles07-creator/DevolucionCambio.java) (Reto 001)
 
 ```java
 final int Billete_100= 100;
@@ -136,7 +136,7 @@ final int Moneda_1= 1;
 
 ## Pregunta 8
 
-Archivo: `DevolucionCambio.java` (Reto 001)
+Archivo: `DevolucionCambio.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/b6839e92164766d6a4b5d2a8764e272be2c3b399/entregas/javierrodriguezrobles07-creator/DevolucionCambio.java) (Reto 001)
 
 ```java
 System.out.print("¿Cuanto dinero tienes que pagar?");
@@ -151,7 +151,7 @@ int DineroUtilizado = scanner.nextInt();
 
 ## Pregunta 9
 
-Archivo: `edificio.java` (Reto 003)
+Archivo: `edificio.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/b6839e92164766d6a4b5d2a8764e272be2c3b399/entregas/javierrodriguezrobles07-creator/edificio.java) (Reto 003)
 
 ```java
 if (hayRayo && c == columnaRayo) {
@@ -174,7 +174,7 @@ if (hayRayo && c == columnaRayo) {
 
 ## Pregunta 10
 
-Archivo: `ConversorSegundos.java` (Reto 001)
+Archivo: `ConversorSegundos.java` — [PRs del alumno](https://github.com/mmasias/25-26-PRG1/pulls?q=is%3Apr+author%3Ajavierrodriguezrobles07-creator+is%3Aall) (Reto 001)
 
 ```java
 int dias = segundos / DIAS_EN_SEGUNDOS;
@@ -193,4 +193,3 @@ segundos = segundos % HORAS_EN_SEGUNDOS;
 - Identificación correcta del error: 40%
 - Explicación del porqué es un error: 30%
 - Propuesta de corrección válida: 30%
-

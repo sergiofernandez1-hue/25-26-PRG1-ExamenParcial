@@ -22,7 +22,7 @@ Nota: Responde 5 de las 10 preguntas (elige libremente).
 
 ## Pregunta 1
 
-Archivo: `Reto003.java` (Reto 003)
+Archivo: `Reto003.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/db74bf694d2a3fc707a9a6294d833d20a47131e1/entregas/Casta%C3%B1eda.Guillermo/Reto003.java) (Reto 003)
 
 ```java
 final int PLANTAS = 8;
@@ -35,7 +35,7 @@ String[][] edificio = new String[7][HABITACIONES];
 
 ## Pregunta 2
 
-Archivo: `Reto003.java` (Reto 003)
+Archivo: `Reto003.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/db74bf694d2a3fc707a9a6294d833d20a47131e1/entregas/Casta%C3%B1eda.Guillermo/Reto003.java) (Reto 003)
 
 ```java
 String ABIERTA = "[ ]";
@@ -49,7 +49,7 @@ String CERRADA_ENCENDIDA = "[*]";
 
 ## Pregunta 3
 
-Archivo: `Reto003.java` (Reto 003)
+Archivo: `Reto003.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/db74bf694d2a3fc707a9a6294d833d20a47131e1/entregas/Casta%C3%B1eda.Guillermo/Reto003.java) (Reto 003)
 
 ```java
 if (Math.random() < PROB_MANTENIMIENTO) {
@@ -68,7 +68,7 @@ if (!rayoCaido && Math.random() < PROB_RAYO) {
 
 ## Pregunta 4
 
-Archivo: `Reto003.java` (Reto 003)
+Archivo: `Reto003.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/db74bf694d2a3fc707a9a6294d833d20a47131e1/entregas/Casta%C3%B1eda.Guillermo/Reto003.java) (Reto 003)
 
 ```java
 for (int i = 6; i >= 0; i--) {
@@ -87,7 +87,7 @@ for (int i = 6; i >= 0; i--) {
 
 ## Pregunta 5
 
-Archivo: `Reto003.java` (Reto 003)
+Archivo: `Reto003.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/db74bf694d2a3fc707a9a6294d833d20a47131e1/entregas/Casta%C3%B1eda.Guillermo/Reto003.java) (Reto 003)
 
 ```java
 System.out.println("Día " + dia + " - " + hora + ":00h  Consumo hora: " + consumoHora);
@@ -101,7 +101,7 @@ System.out.println("Media de consumo semanal: " + media);
 
 ## Pregunta 6
 
-Archivo: `Reto003.java` (Reto 003)
+Archivo: `Reto003.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/db74bf694d2a3fc707a9a6294d833d20a47131e1/entregas/Casta%C3%B1eda.Guillermo/Reto003.java) (Reto 003)
 
 ```java
 String ABIERTA = "[ ]";
@@ -118,7 +118,7 @@ String ESPACIO = ":[    ]:";
 
 ## Pregunta 7
 
-Archivo: `Reto003.java` (Reto 003)
+Archivo: `Reto003.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/db74bf694d2a3fc707a9a6294d833d20a47131e1/entregas/Casta%C3%B1eda.Guillermo/Reto003.java) (Reto 003)
 
 ```java
 System.out.println("Simulación del hotel en la esquina de Agonía con Mortificación");
@@ -132,7 +132,7 @@ System.out.println("[ ] - [º] - [*] - [X] -[#]");
 
 ## Pregunta 8
 
-Archivo: `Reto003.java` (Reto 003)
+Archivo: `Reto003.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/db74bf694d2a3fc707a9a6294d833d20a47131e1/entregas/Casta%C3%B1eda.Guillermo/Reto003.java) (Reto 003)
 
 ```java
 System.out.println("               __/\__");
@@ -144,7 +144,7 @@ System.out.println("               __/\__");
 
 ## Pregunta 9
 
-Archivo: `Reto003.java` (Reto 003)
+Archivo: `Reto003.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/db74bf694d2a3fc707a9a6294d833d20a47131e1/entregas/Casta%C3%B1eda.Guillermo/Reto003.java) (Reto 003)
 
 ```java
 if (columnaAveriada != -1 && hora == 8) {
@@ -161,7 +161,7 @@ if (plantaMantenimiento != -1 && hora == 8) {
 
 ## Pregunta 10
 
-Archivo: `Reto003.java` (Reto 003)
+Archivo: `Reto003.java` — [Ver archivo](https://github.com/mmasias/25-26-PRG1/blob/db74bf694d2a3fc707a9a6294d833d20a47131e1/entregas/Casta%C3%B1eda.Guillermo/Reto003.java) (Reto 003)
 
 ```java
 for (int j = 0; j < HABITACIONES; j++) {
@@ -181,4 +181,3 @@ for (int j = 0; j < HABITACIONES; j++) {
 - Identificación correcta del error: 40%
 - Explicación del porqué es un error: 30%
 - Propuesta de corrección válida: 30%
-
