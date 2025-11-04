@@ -53,9 +53,9 @@ if (vidaVampiro <= 0){
 
 ¿Qué observas en este código?
 
-### En este código podemos ver el uso de switch, en este caso tiene el objetivo de, en función del ataque elegido (1, 2 o 3), ejecutar la parte del código relacionada con dicho ataque relacionada con el daño que hace y la probabilidad que tiene de acertar. 
+#### En este código podemos ver el uso de switch, en este caso tiene el objetivo de, en función del ataque elegido (1, 2 o 3), ejecutar la parte del código relacionada con dicho ataque relacionada con el daño que hace y la probabilidad que tiene de acertar. 
 
-### Tras atacar se comprueba si el enemigo ha sido abatido o no, para ello se usa un if y las variables vidaVampiro y vampiroVivo. En este caso si la vida del enemigo llega a 0 o menos el if se encargará de que la variable vampiroVivo pase a ser falsa.
+#### Tras atacar se comprueba si el enemigo ha sido abatido o no, para ello se usa un if y las variables vidaVampiro y vampiroVivo. En este caso si la vida del enemigo llega a 0 o menos el if se encargará de que la variable vampiroVivo pase a ser falsa.
 
 ---
 
@@ -76,17 +76,17 @@ if (eleccionAtaqueVampiro <= PROBABILIDAD_ELECCION_ATAQUE_1){
 
 ¿Qué observas en este código?
 
-### Este código tiene la función de elegir que ataque realizará el vampiro, el cual tiene a elegir entre tres ataques distintos, cada uno con un daño y probabilidad de acertar distintos. Para ello se usan las constantes PROBABILIDAD_ELECCION_ATAQUE_1 y PROBABILIDAD_ELECCION_ATAQUE_2. El código se divide en 4 partes:
+#### Este código tiene la función de elegir que ataque realizará el vampiro, el cual tiene a elegir entre tres ataques distintos, cada uno con un daño y probabilidad de acertar distintos. Para ello se usan las constantes PROBABILIDAD_ELECCION_ATAQUE_1 y PROBABILIDAD_ELECCION_ATAQUE_2. El código se divide en 4 partes:
 
-### - En primer lugar se calcula un número aleatorio entre 0 y 1, que es asignado a la variable eleccionAtaqueVampiro.
+#### - En primer lugar se calcula un número aleatorio entre 0 y 1, que es asignado a la variable eleccionAtaqueVampiro.
 
-### - En segundo lugar se comprueba si eleccionAtaqueVampiro ha sido menor que PROBABILIDAD_ELECCION_ATAQUE_1, en ese caso ese será el ataque elegido.
+#### - En segundo lugar se comprueba si eleccionAtaqueVampiro ha sido menor que PROBABILIDAD_ELECCION_ATAQUE_1, en ese caso ese será el ataque elegido.
 
-### - En caso de que no haya sido menor que PROBABILIDAD_ELECCION_ATAQUE_1 se comprueba si ha sido menor que PROBABILIDAD_ELECCION_ATAQUE_2 y mayor que PROBABILIDAD_ELECCION_ATAQUE_1, si ha sido asi el segundo ataque será elegido.
+#### - En caso de que no haya sido menor que PROBABILIDAD_ELECCION_ATAQUE_1 se comprueba si ha sido menor que PROBABILIDAD_ELECCION_ATAQUE_2 y mayor que PROBABILIDAD_ELECCION_ATAQUE_1, si ha sido asi el segundo ataque será elegido.
 
-### - En caso de que ninguno de estos casos se dé se elige el tercer ataque.
+#### - En caso de que ninguno de estos casos se dé se elige el tercer ataque.
 
-### Una forma más limpia de escribir este código sería la siguiente:
+#### Una forma más limpia de escribir este código sería la siguiente:
 
 ```java
 eleccionAtaqueVampiro = Math.random();
@@ -98,7 +98,7 @@ if (eleccionAtaqueVampiro <= PROBABILIDAD_ELECCION_ATAQUE_1){
     // ...
 }
 ```
-### En ella eliminamos que, en el else if, se compruebe que el número haya sido mayor que PROBABILIDAD_ELECCION_ATAQUE_1, ya que en el primer if comprobamos si es menor, y si no es así el número debe ser mayor, sin necesidad de comprobarlo.
+#### En ella eliminamos que, en el else if, se compruebe que el número haya sido mayor que PROBABILIDAD_ELECCION_ATAQUE_1, ya que en el primer if comprobamos si es menor, y si no es así el número debe ser mayor, sin necesidad de comprobarlo.
 
 
 ---
@@ -115,9 +115,9 @@ if (vampiroVivo == true){ /* ... */ }
 
 ¿Qué observas en este código?
 
-### En este código observamos que cuando le toca el turno a un personaje, primero vemos si sige vivo o no, y si es así se ejecuta el código relacionado con su turno. 
+#### En este código observamos que cuando le toca el turno a un personaje, primero vemos si sige vivo o no, y si es así se ejecuta el código relacionado con su turno. 
 
-### Podemos mejorar este código del siguiente modo:
+#### Podemos mejorar este código del siguiente modo:
 
 ```java
 if (caballeroVivo){ /* ... */ }
@@ -125,7 +125,7 @@ if (caballeroVivo){ /* ... */ }
 if (vampiroVivo){ /* ... */ }
 ```
 
-### En esta corrección eliminamos que se compruebe si caballeroVivo o vampiroVivo son verdaderas, ya que al ser variables booleanas no es necesario comprobarlo.
+#### En esta corrección eliminamos que se compruebe si caballeroVivo o vampiroVivo son verdaderas, ya que al ser variables booleanas no es necesario comprobarlo.
 
 ---
 
@@ -143,9 +143,9 @@ if (vidaGuerrero <= 0 || vidaVampiro <= 0) {
 
 ¿Qué observas en este código?
 
-### En este código se comprueba si la vida de alguno de los dos personajes ha llegado a 0 o menos que 0, en cuyo caso la variable algunMuerto pasa a ser verdadera, lo que hace que se termine la batalla.
+#### En este código se comprueba si la vida de alguno de los dos personajes ha llegado a 0 o menos que 0, en cuyo caso la variable algunMuerto pasa a ser verdadera, lo que hace que se termine la batalla.
 
-### Este código se puede escribir de formal más clara de la siguiente forma:
+#### Este código se puede escribir de formal más clara de la siguiente forma:
 
 ```java
 System.out.println("Turno del guerrero, con " + vidaGuerrero + " puntos de vida");
@@ -155,7 +155,7 @@ if (!guerreroVivo || !vampiroVivo) {
 }
 ```
 
-### En esta corrección usamos las variables guerreroVivo y vampiroVivo negadas para comprobar si hay algun muerto, ya que si por ejemplo el guerrero muere guerreroVivo pasaría a ser falso, al negarla sería verdadera lo que ejecutaría el código dentro del if.
+#### En esta corrección usamos las variables guerreroVivo y vampiroVivo negadas para comprobar si hay algun muerto, ya que si por ejemplo el guerrero muere guerreroVivo pasaría a ser falso, al negarla sería verdadera lo que ejecutaría el código dentro del if.
 
 ---
 
@@ -173,9 +173,9 @@ if (caballeroVivo == true){
 
 ¿Qué observas en este código?
 
-### Este código tiene el objetivo de que, en caso de que el guerrero continúe vivo, comience su turno. Al comienzo del turno se muestra en pantalla con un print que así es además de cuanta vida le queda. Cuando el guerrero ataca debemos calcular si acierta o no, para ello usamos la variable probabilidadGolpe, que será un número aleatorio entre 0 y 1; y la constante PORCENTAJE_EXITO_GUERRERO, que tendrá un valor fijo. En caso de que el número aleatorio haya sido mayor que PORCENTAJE_EXITO_GUERRERO se le restara a la vida del vampiro el daño del ataque del guerrero.
+#### Este código tiene el objetivo de que, en caso de que el guerrero continúe vivo, comience su turno. Al comienzo del turno se muestra en pantalla con un print que así es además de cuanta vida le queda. Cuando el guerrero ataca debemos calcular si acierta o no, para ello usamos la variable probabilidadGolpe, que será un número aleatorio entre 0 y 1; y la constante PORCENTAJE_EXITO_GUERRERO, que tendrá un valor fijo. En caso de que el número aleatorio haya sido mayor que PORCENTAJE_EXITO_GUERRERO se le restara a la vida del vampiro el daño del ataque del guerrero.
 
-### Sin embargo las variables en este código no tienen un nombre que describa perfectamente su función. La corrección a este problema sería la siguiente:
+#### Sin embargo las variables en este código no tienen un nombre que describa perfectamente su función. La corrección a este problema sería la siguiente:
 
 ```java
 if (caballeroVivo == true){
@@ -185,7 +185,7 @@ if (caballeroVivo == true){
         vidaVampiro = vidaVampiro - DAÑO_ESPADA;
 ```
 
-### Con estos cambios ahora las variables describen perfectamente su función.
+#### Con estos cambios ahora las variables describen perfectamente su función.
 
 ---
 
